@@ -3825,3 +3825,105 @@ Script Stack (0 frames):
 [2021.12.12-12.34.44:901][210]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
 [2021.12.12-12.34.44:901][210]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
 [2021.12.12-12.35.08:657][471]LogSlate: Window 'Source Control Login' being destroyed
+[2021.12.12-12.35.31:822][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.35.31:838][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.12-12.35.31:842][381]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelC1E280B0415136789C37BA82E982A9AB.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.35.31:947][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.35.31:948][381]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData8F567DD14AC50FC267C5A688C82709ED.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.35.32:068][381]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.35.32:068][381]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.35.32:069][381]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.36.02:091][351]LogActorFactory: Actor Factory created Cube
+[2021.12.12-12.36.02:091][351]LogActorFactory: Actor Factory created Cube
+[2021.12.12-12.36.02:727][404]LogActorFactory: Actor Factory created Cube
+[2021.12.12-12.36.02:728][404]LogActorFactory: Actor Factory created Cube
+[2021.12.12-12.36.15:859][861]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2021.12.12-12.36.16:216][861]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Sphere_inversenormals) ...
+[2021.12.12-12.36.16:498][861]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Floor_Mesh) ...
+[2021.12.12-12.37.25:458][738]LogSlate: Window 'Cube' being destroyed
+[2021.12.12-12.37.25:466][738]LogSlate: Window 'Cube' being destroyed
+[2021.12.12-12.37.25:534][738]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-12.37.25:534][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-12.38.10:210][455]LogEditorViewport: Clicking Background
+[2021.12.12-12.38.23:166][770]Cmd: EDIT COPY
+[2021.12.12-12.38.23:404][788]Cmd: EDIT PASTE
+[2021.12.12-12.38.28:731][307]Cmd: EDIT COPY
+[2021.12.12-12.38.28:902][324]Cmd: EDIT PASTE
+[2021.12.12-12.39.26:770][345]Cmd: EDIT COPY
+[2021.12.12-12.39.34:387][196]Cmd: TRANSACTION UNDO
+[2021.12.12-12.39.34:387][196]LogEditorTransaction: Undo Rotate Elements
+[2021.12.12-12.39.36:300][294]Cmd: EDIT COPY
+[2021.12.12-12.39.36:586][312]Cmd: EDIT PASTE
+[2021.12.12-12.40.22:893][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.40.22:920][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.12.12-12.40.22:928][ 23]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel4B2D4FB54AFAC93562A587A47403013B.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.40.23:032][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.40.23:033][ 23]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData29CFE5A646E66C801257D8BFA7EEB09F.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.40.23:156][ 23]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.40.23:156][ 23]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.40.23:156][ 23]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.40.57:633][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.40.57:651][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.12.12-12.40.57:656][763]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel7F269A84480581917AD55DBDD2FCD570.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.40.57:770][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.40.57:771][763]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltDataB4094C584E1A16ED3093BCA08ACE8BBF.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.40.57:891][763]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.40.57:891][763]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.40.57:891][763]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.41.00:736][ 47]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.12-12.41.00:950][ 47]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.12-12.41.01:549][118]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.41.01:550][118]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.41.03:594][354]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.41.03:594][354]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.41.05:189][527]LogContentBrowser: Attempting asset rename: NewFolder -> BPs
+[2021.12.12-12.41.05:189][527]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.12-12.41.16:663][575]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.12-12.41.16:671][575]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.12-12.41.16:684][575]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.12-12.41.23:575][368]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Lamp
+[2021.12.12-12.41.23:687][368]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.12-12.41.28:323][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/BPs/BP_Lamp" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Lamp.uasset" SILENT=true
+[2021.12.12-12.41.28:328][897]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/BP_Lamp4F1C9B8A47E067B4DC1E619FE52779E7.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Lamp.uasset'
+[2021.12.12-12.41.28:516][897]AssetCheck: New page: Asset Save: BP_Lamp
+[2021.12.12-12.41.28:516][897]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/BPs/BP_Lamp.BP_Lamp
+[2021.12.12-12.41.42:470][510]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_SvichkarSA/BPs/BP_Lamp.BP_Lamp
+[2021.12.12-12.41.43:029][510]LogStaticMesh: StaticMesh /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox should be resaved to improve async compilation performance.
+[2021.12.12-12.41.43:047][510]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (PhAT_FloorBox) ...
+[2021.12.12-12.43.54:426][601]LogSlate: Window 'BP_Lamp' being destroyed
+[2021.12.12-12.44.01:435][231]BlueprintLog: New page: Compile BP_Lamp
+[2021.12.12-12.44.01:496][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.12.12-12.44.02:403][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/BPs/BP_Lamp" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Lamp.uasset" SILENT=true
+[2021.12.12-12.44.02:408][299]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/BP_Lamp6B5FC7AA45F5710A5325D296F399C896.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Lamp.uasset'
+[2021.12.12-12.44.02:420][299]AssetCheck: New page: Asset Save: BP_Lamp
+[2021.12.12-12.44.02:420][299]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/BPs/BP_Lamp.BP_Lamp
+[2021.12.12-12.45.06:309][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/BPs/BP_Lamp" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Lamp.uasset" SILENT=true
+[2021.12.12-12.45.06:318][967]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/BP_LampF5CEE2164D6A5A213B51C9BC7D7ED9A4.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Lamp.uasset'
+[2021.12.12-12.45.06:341][967]AssetCheck: New page: Asset Save: BP_Lamp
+[2021.12.12-12.45.06:341][967]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/BPs/BP_Lamp.BP_Lamp
+[2021.12.12-12.45.07:511][ 92]BlueprintLog: New page: Compile BP_Lamp
+[2021.12.12-12.45.07:550][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.12.12-12.45.57:109][608]LogPhysics: Warning: Scale for /Game/_SvichkarSA/Levels/MainLevel.MainLevel:PersistentLevel.BP_Lamp_C_1.LampMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.469 Y=0.000 Z=0.469
+[2021.12.12-12.45.57:109][608]LogPhysics: Warning: Scale for /Game/_SvichkarSA/Levels/MainLevel.MainLevel:PersistentLevel.BP_Lamp_C_1.LampMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.469 Y=0.000 Z=0.469
+[2021.12.12-12.45.57:109][608]LogPhysics: Warning: Scale for /Game/_SvichkarSA/Levels/MainLevel.MainLevel:PersistentLevel.BP_Lamp_C_1.LampMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.469 Y=0.000 Z=0.469
+[2021.12.12-12.45.59:140][813]Cmd: TRANSACTION UNDO
+[2021.12.12-12.45.59:141][813]LogEditorTransaction: Undo Scale Elements
+[2021.12.12-12.46.09:941][718]LogEditorViewport: Clicking Background
+[2021.12.12-12.46.20:730][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.46.20:755][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.12.12-12.46.20:761][966]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel60957B5041A1FFE7F4DDC8ACF7FF6B69.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.46.20:866][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.46.20:867][966]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltDataB5568E0B419285A6A174838541508A22.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.46.20:989][966]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.46.20:989][966]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.46.20:989][966]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.47.51:401][935]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.47.51:401][935]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.47.57:861][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.47.57:884][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.12.12-12.47.57:890][513]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelF5E2886B4F92623A019D95A0C5E741F0.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.47.58:003][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.47.58:004][513]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData3A51FA2846393E3ED585D183AE0E3467.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.47.58:125][513]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.47.58:125][513]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.47.58:125][513]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
