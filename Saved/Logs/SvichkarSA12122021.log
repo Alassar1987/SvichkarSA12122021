@@ -3149,3 +3149,679 @@ Script Stack (0 frames):
 [2021.12.12-11.44.36:548][654]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelA23D4D0947C16798BF1A71A0801FFB29.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
 [2021.12.12-11.44.36:561][654]AssetCheck: New page: Asset Save: MainLevel
 [2021.12.12-11.44.36:561][654]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-11.56.19:638][335]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-11.56.19:638][335]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.01.34:241][366]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/_SvichkarSA/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2021.12.12-12.01.34:847][366]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 127 classes and 0 folders.
+[2021.12.12-12.01.37:924][366]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2021.12.12-12.01.37:924][366]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.037785s
+[2021.12.12-12.01.37:929][366]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.453713s (0.453713s overbudget)
+[2021.12.12-12.01.38:031][366]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.12-12.01.41:931][624]LogSlate: Window 'MainLevel' being destroyed
+[2021.12.12-12.01.41:942][624]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-12.01.41:942][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-12.02.09:208][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.02.09:233][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.12.12-12.02.09:240][584]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelFB7626D446D9E5C04684E1B4B84D83F7.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.02.09:261][584]AssetCheck: New page: Asset Save: MainLevel
+[2021.12.12-12.02.09:261][584]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.02.14:757][140]LogActorFactory: Actor Factory created Cube
+[2021.12.12-12.02.14:790][140]LogActorFactory: Actor Factory created Cube
+[2021.12.12-12.02.16:645][328]LogActorFactory: Actor Factory created Cube
+[2021.12.12-12.02.16:646][328]LogActorFactory: Actor Factory created Cube
+[2021.12.12-12.02.27:637][475]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.12-12.02.45:390][120]MapCheck: New page: Map Check
+[2021.12.12-12.02.45:483][120]Cmd: MAP REBUILD ALLVISIBLE
+[2021.12.12-12.02.45:483][120]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.12.12-12.02.45:564][120]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2021.12.12-12.02.45:610][120]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.12.12-12.02.45:610][120]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.12.12-12.02.45:610][120]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2021.12.12-12.02.45:630][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.12.12-12.02.45:663][120]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2021.12.12-12.02.45:688][120]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2021.12.12-12.02.45:705][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.12-12.02.45:753][120]LightingResults: New page: Lighting Build - 13 дек. 2021 г., 08:02:45
+[2021.12.12-12.02.45:991][120]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.12-12.02.46:384][120]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.12-12.02.46:405][120]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.12-12.02.47:481][120]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.12-12.02.47:481][120]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20760
+[2021.12.12-12.02.54:319][120]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.12.12-12.02.54:319][120]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.12-12.02.54:319][120]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.12-12.02.54:320][120]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.12-12.02.54:320][120]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.12-12.02.54:320][120]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.12-12.02.54:589][120]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.12.12-12.02.54:589][120]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:02:54
+[2021.12.12-12.02.54:668][120]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78,595ms to complete.
+[2021.12.12-12.02.54:670][120]LogEditorBuildUtils: Build time 0:09
+[2021.12.12-12.02.54:703][120]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CD6E6691EEEB3DA4842B595BBC8B71FDAE5C3C78), compiling. 
+[2021.12.12-12.02.54:708][120]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CCFEECBAB88DB30C11A6C8410F22FB8C5867EDFC), compiling. 
+[2021.12.12-12.02.55:667][121]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.12-12.02.55:667][121]LogShaderCompilers: Display: Total job queries 168, among them cache hits 0 (0.00%)
+[2021.12.12-12.02.55:667][121]LogShaderCompilers: Display: Tracking 168 distinct input hashes that result in 133 distinct outputs (79.17%)
+[2021.12.12-12.02.55:667][121]LogShaderCompilers: Display: RAM used: 0.31 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2021.12.12-12.02.55:667][121]LogShaderCompilers: Display: ================================================
+[2021.12.12-12.02.55:905][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.12.12-12.02.57:292][165]Job is a success!
+[2021.12.12-12.02.57:530][166]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.029s
+[2021.12.12-12.02.57:531][166]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.12.12-12.02.57:531][166]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.12.12-12.02.57:531][166]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.12-12.02.57:531][166]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2021.12.12-12.02.57:531][166]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2021.12.12-12.02.57:531][166]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2021.12.12-12.02.57:531][166]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.12-12.02.57:531][166]LogVolumetricLightmapImport:          MainLevel 			 3 bricks 	 100.0% (Persistent Level)
+[2021.12.12-12.02.57:610][166]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2021.12.12-12.02.57:611][166]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2021.12.12-12.02.57:611][166]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2021.12.12-12.02.57:611][166]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2021.12.12-12.02.57:611][166]Lightmass on WIN-GJCKBGU9BKU: 773 ms total, 176 ms importing, 17 ms setup, 25 ms photons, 548 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 6.02 sec total, 13 ms processing.
+[2021.12.12-12.02.57:651][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.12.12-12.02.57:807][166]LogStaticLightingSystem: Illumination: 11.9 sec (3 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2021.12.12-12.02.57:807][166]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.12.12-12.02.57:807][166]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.12.12-12.02.58:333][166]DumpUnbuiltLightIteractions
+[2021.12.12-12.02.58:333][166]Lights with unbuilt interactions: 0
+[2021.12.12-12.02.58:333][166]
+[2021.12.12-12.02.58:333][166]Primitives with unbuilt interactions: 0
+[2021.12.12-12.02.58:535][167]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.12-12.02.58:535][167]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:02:58
+[2021.12.12-12.02.58:536][167]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,302ms to complete.
+[2021.12.12-12.03.01:934][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.03.01:952][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.12.12-12.03.01:959][432]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel7EB646F74CD1902DBC80159BA03F0C43.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.03.01:962][432]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.03.01:963][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.03.01:967][432]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData70572FC447ED59D8EA860E931A3BAEA1.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.03.01:967][432]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.03.01:981][432]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.03.01:981][432]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.03.01:981][432]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.03.34:281][429]Cmd: DELETE
+[2021.12.12-12.03.34:281][429]Cmd: ACTOR DELETE
+[2021.12.12-12.03.34:281][429]LogEditorActor: Cannot delete component SkyLightComponent /Game/_SvichkarSA/Levels/MainLevel.MainLevel:PersistentLevel.SkyLight_1.SkyLightComponent0: Can't delete non-instanced components or the scene root.
+[2021.12.12-12.03.47:522][787]Cmd: DELETE
+[2021.12.12-12.03.47:522][787]Cmd: ACTOR DELETE
+[2021.12.12-12.03.47:526][787]LogEditorActor: Deleted Actor: SkyLight
+[2021.12.12-12.03.47:546][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.12.12-12.03.47:549][787]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.12.12-12.04.04:429][288]LogEditorViewport: Clicking Background
+[2021.12.12-12.04.18:115][686]LogEditorViewport: Clicking Background
+[2021.12.12-12.04.25:136][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.04.25:154][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.12.12-12.04.25:161][282]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel37377A8749BEDB21F018ABAE8790B126.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.04.25:163][282]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.04.25:164][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.04.25:168][282]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltDataB7CF214F455820480C954D98E4EC2BC1.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.04.25:169][282]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.04.25:182][282]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.04.25:182][282]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.04.25:182][282]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.04.27:873][576]MapCheck: New page: Map Check
+[2021.12.12-12.04.27:904][576]Cmd: MAP REBUILD ALLVISIBLE
+[2021.12.12-12.04.27:905][576]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.12.12-12.04.27:978][576]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2021.12.12-12.04.27:994][576]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.12.12-12.04.27:994][576]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.12.12-12.04.27:994][576]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2021.12.12-12.04.28:012][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.12.12-12.04.28:013][576]LogLevel: Display: Export Material TexCoord Scales took 0.000 seconds.
+[2021.12.12-12.04.28:016][576]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.12.12-12.04.28:032][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.12-12.04.28:035][576]LightingResults: New page: Lighting Build - 13 дек. 2021 г., 08:04:28
+[2021.12.12-12.04.28:038][576]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.12-12.04.28:048][576]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.12-12.04.28:048][576]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.12-12.04.28:049][576]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.12-12.04.28:049][576]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20760
+[2021.12.12-12.04.32:818][576]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.12.12-12.04.32:818][576]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.12-12.04.32:818][576]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.12-12.04.32:818][576]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.12-12.04.32:818][576]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.12-12.04.32:818][576]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.12-12.04.32:907][576]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.12.12-12.04.32:907][576]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:04:32
+[2021.12.12-12.04.32:907][576]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,308ms to complete.
+[2021.12.12-12.04.32:910][576]LogEditorBuildUtils: Build time 0:05
+[2021.12.12-12.04.33:007][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.12.12-12.04.34:027][610]Job is a success!
+[2021.12.12-12.04.34:283][611]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2021.12.12-12.04.34:284][611]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.12.12-12.04.34:284][611]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.12.12-12.04.34:284][611]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.12-12.04.34:284][611]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2021.12.12-12.04.34:284][611]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2021.12.12-12.04.34:284][611]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2021.12.12-12.04.34:284][611]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.12-12.04.34:284][611]LogVolumetricLightmapImport:          MainLevel 			 3 bricks 	 100.0% (Persistent Level)
+[2021.12.12-12.04.34:330][611]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2021.12.12-12.04.34:330][611]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2021.12.12-12.04.34:330][611]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2021.12.12-12.04.34:372][611]Lightmass on WIN-GJCKBGU9BKU: 757 ms total, 147 ms importing, 15 ms setup, 25 ms photons, 549 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 6.03 sec total, 13 ms processing.
+[2021.12.12-12.04.34:382][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.12.12-12.04.34:512][611]LogStaticLightingSystem: Illumination: 6.35 sec (2 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2021.12.12-12.04.34:512][611]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.12.12-12.04.34:512][611]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.12.12-12.04.34:831][611]DumpUnbuiltLightIteractions
+[2021.12.12-12.04.34:831][611]Lights with unbuilt interactions: 0
+[2021.12.12-12.04.34:831][611]
+[2021.12.12-12.04.34:831][611]Primitives with unbuilt interactions: 0
+[2021.12.12-12.04.34:973][612]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.12-12.04.34:973][612]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:04:34
+[2021.12.12-12.04.34:974][612]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,376ms to complete.
+[2021.12.12-12.05.47:007][925]LogEditorViewport: Clicking Background
+[2021.12.12-12.05.48:106][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.12-12.05.51:191][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.05.51:207][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.12-12.05.51:216][389]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelD04B733F4C1D4C033944F7AFD800C889.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.05.51:218][389]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.05.51:219][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.05.51:222][389]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData9EC306894086528F7C3B7EB5B22DCD35.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.05.51:223][389]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.05.51:236][389]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.05.51:236][389]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.05.51:236][389]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.06.33:477][708]EditorErrors: New page: Actor attachment
+[2021.12.12-12.06.35:796][919]LogLevelInstance: Warning: Failed to move actors out of Level Instance because not all actors could be moved
+[2021.12.12-12.09.33:843][781]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.09.33:843][781]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.09.34:846][849]LogEditorViewport: Clicking Background
+[2021.12.12-12.09.46:888][235]LogEditorViewport: Clicking Background
+[2021.12.12-12.09.56:727][378]LogEditorViewport: Clicking Background
+[2021.12.12-12.09.57:884][515]LogEditorViewport: Clicking Background
+[2021.12.12-12.09.59:912][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.09.59:929][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.12.12-12.09.59:936][720]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel2E126AF64B8D48E3184403BB0A891349.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.09.59:938][720]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.09.59:939][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.09.59:942][720]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltDataA4E5B53347FED0CF7A5D689FDC757447.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.09.59:943][720]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.09.59:955][720]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.09.59:955][720]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.09.59:955][720]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.10.01:453][873]LogEditorViewport: Clicking Background
+[2021.12.12-12.10.06:566][384]Cmd: DELETE
+[2021.12.12-12.10.06:566][384]Cmd: ACTOR DELETE
+[2021.12.12-12.10.06:570][384]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2021.12.12-12.10.06:587][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.12-12.10.06:589][384]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.12.12-12.10.09:504][670]Cmd: DELETE
+[2021.12.12-12.10.09:504][670]Cmd: ACTOR DELETE
+[2021.12.12-12.10.09:508][670]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.12.12-12.10.09:528][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.12.12-12.10.09:530][670]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.12.12-12.10.14:021][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.10.14:038][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.12-12.10.14:043][149]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelA90FE0384B214D3677EB2980E5082EB2.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.10.14:045][149]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.10.14:046][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.10.14:049][149]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData7FCAAA3F4537113ACDE6C4BBB3C31C98.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.10.14:050][149]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.10.14:063][149]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.10.14:063][149]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.10.14:063][149]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.11.03:293][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.11.03:312][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.12.12-12.11.03:319][952]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel95B0FB4A4A53EACC101FCA8604E188F3.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.11.03:321][952]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.11.03:322][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.11.03:325][952]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData8ACEDE5B429044BA0DAD618A7D6D19CE.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.11.03:326][952]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.11.03:340][952]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.11.03:340][952]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.11.03:340][952]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.11.27:574][685]Cmd: DELETE
+[2021.12.12-12.11.27:574][685]Cmd: ACTOR DELETE
+[2021.12.12-12.11.27:578][685]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2021.12.12-12.11.27:596][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.12.12-12.11.27:598][685]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.12.12-12.11.30:213][965]Cmd: DELETE
+[2021.12.12-12.11.30:214][965]Cmd: ACTOR DELETE
+[2021.12.12-12.11.30:217][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.12-12.11.30:236][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.12.12-12.11.30:238][965]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.12.12-12.11.55:079][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.11.55:098][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.12.12-12.11.55:105][719]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel1DD87CB8425285C639E95DB84F7BA14F.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.11.55:107][719]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.11.55:107][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.11.55:110][719]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltDataF00328FA4AFDEE00CEDAD7BE1C42FB88.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.11.55:111][719]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.11.55:124][719]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.11.55:124][719]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.11.55:124][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.12.12:209][647]LogEditorViewport: Clicking Background
+[2021.12.12-12.12.19:091][439]LogEditorViewport: Clicking Background
+[2021.12.12-12.12.20:185][548]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.12-12.12.23:970][899]Cmd: SELECT NONE
+[2021.12.12-12.12.50:658][811]Cmd: TRANSACTION UNDO
+[2021.12.12-12.12.50:683][811]LogEditorTransaction: Undo Create Actors
+[2021.12.12-12.13.13:337][237]Cmd: DELETE
+[2021.12.12-12.13.13:337][237]Cmd: ACTOR DELETE
+[2021.12.12-12.13.13:341][237]LogEditorActor: Deleted Actor: SkyLight
+[2021.12.12-12.13.13:363][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.12.12-12.13.13:366][237]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.12.12-12.13.17:239][680]Cmd: DELETE
+[2021.12.12-12.13.17:239][680]Cmd: ACTOR DELETE
+[2021.12.12-12.13.17:243][680]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2021.12.12-12.13.17:263][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.12.12-12.13.17:265][680]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.12.12-12.15.20:247][101]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.15.20:247][101]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.15.39:519][180]LogEditorViewport: Clicking Background
+[2021.12.12-12.15.55:861][ 78]Cmd: TRANSACTION UNDO
+[2021.12.12-12.15.55:861][ 78]LogEditorTransaction: Undo Rotate Elements
+[2021.12.12-12.15.59:887][457]Cmd: DELETE
+[2021.12.12-12.15.59:887][457]Cmd: ACTOR DELETE
+[2021.12.12-12.15.59:890][457]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2021.12.12-12.15.59:913][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.12.12-12.15.59:916][457]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.12.12-12.16.29:234][597]MapCheck: New page: Map Check
+[2021.12.12-12.16.29:260][597]LightingResults: New page: Lighting Build - 13 дек. 2021 г., 08:16:29
+[2021.12.12-12.16.29:265][597]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.12-12.16.29:275][597]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.12-12.16.29:275][597]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.12-12.16.29:276][597]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.12-12.16.29:276][597]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20760
+[2021.12.12-12.16.33:842][597]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.12.12-12.16.33:842][597]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.12-12.16.33:843][597]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.12-12.16.33:843][597]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.12-12.16.33:843][597]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.12-12.16.33:843][597]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.12-12.16.33:945][597]LogEditorBuildUtils: Build time 0:04
+[2021.12.12-12.16.33:951][597]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.12-12.16.33:951][597]LogShaderCompilers: Display: Total job queries 168, among them cache hits 0 (0.00%)
+[2021.12.12-12.16.33:951][597]LogShaderCompilers: Display: Tracking 168 distinct input hashes that result in 133 distinct outputs (79.17%)
+[2021.12.12-12.16.33:951][597]LogShaderCompilers: Display: RAM used: 0.31 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2021.12.12-12.16.33:951][597]LogShaderCompilers: Display: ================================================
+[2021.12.12-12.16.34:087][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.12.12-12.16.35:195][652]Job is a success!
+[2021.12.12-12.16.35:413][652]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.12.12-12.16.35:413][652]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.12.12-12.16.35:413][652]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.12.12-12.16.35:413][652]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.12-12.16.35:413][652]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.12.12-12.16.35:413][652]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.12.12-12.16.35:413][652]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.12.12-12.16.35:413][652]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.12-12.16.35:413][652]LogVolumetricLightmapImport:          MainLevel 			 1 bricks 	 100.0% (Persistent Level)
+[2021.12.12-12.16.35:494][652]Lightmass on WIN-GJCKBGU9BKU: 771 ms total, 166 ms importing, 20 ms setup, 25 ms photons, 538 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 5.91 sec total, 0 ms processing.
+[2021.12.12-12.16.35:506][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.12.12-12.16.35:603][652]LogStaticLightingSystem: Illumination: 6.21 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.12.12-12.16.35:603][652]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.12-12.16.35:603][652]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.12-12.16.35:859][652]DumpUnbuiltLightIteractions
+[2021.12.12-12.16.35:859][652]Lights with unbuilt interactions: 0
+[2021.12.12-12.16.35:859][652]
+[2021.12.12-12.16.35:859][652]Primitives with unbuilt interactions: 0
+[2021.12.12-12.16.36:002][653]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.12-12.16.36:002][653]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:16:36
+[2021.12.12-12.16.36:002][653]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,286ms to complete.
+[2021.12.12-12.16.42:764][339]MapCheck: New page: Map Check
+[2021.12.12-12.16.42:792][339]Cmd: MAP REBUILD ALLVISIBLE
+[2021.12.12-12.16.42:792][339]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.12.12-12.16.42:860][339]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2021.12.12-12.16.42:875][339]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.12.12-12.16.42:875][339]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.12.12-12.16.42:875][339]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2021.12.12-12.16.42:893][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.12.12-12.16.42:896][339]LightingResults: New page: Lighting Build - 13 дек. 2021 г., 08:16:42
+[2021.12.12-12.16.42:900][339]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.12-12.16.42:905][339]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.12-12.16.42:905][339]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.12-12.16.42:906][339]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.12-12.16.42:906][339]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20760
+[2021.12.12-12.16.47:460][339]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.12.12-12.16.47:460][339]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.12-12.16.47:460][339]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.12-12.16.47:460][339]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.12-12.16.47:460][339]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.12-12.16.47:460][339]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.12-12.16.47:555][339]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.12.12-12.16.47:555][339]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:16:47
+[2021.12.12-12.16.47:556][339]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,298ms to complete.
+[2021.12.12-12.16.47:558][339]LogEditorBuildUtils: Build time 0:04
+[2021.12.12-12.16.47:674][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.12-12.16.48:788][395]Job is a success!
+[2021.12.12-12.16.48:985][396]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.12.12-12.16.48:985][396]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.12.12-12.16.48:985][396]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.12.12-12.16.48:985][396]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.12-12.16.48:985][396]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.12.12-12.16.48:985][396]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.12.12-12.16.48:985][396]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.12.12-12.16.48:985][396]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.12-12.16.48:985][396]LogVolumetricLightmapImport:          MainLevel 			 1 bricks 	 100.0% (Persistent Level)
+[2021.12.12-12.16.49:071][396]Lightmass on WIN-GJCKBGU9BKU: 724 ms total, 164 ms importing, 18 ms setup, 37 ms photons, 480 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 5.27 sec total, 0 ms processing.
+[2021.12.12-12.16.49:071][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.12-12.16.49:176][396]LogStaticLightingSystem: Illumination: 6.14 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.12.12-12.16.49:176][396]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.12-12.16.49:176][396]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.12-12.16.49:473][396]DumpUnbuiltLightIteractions
+[2021.12.12-12.16.49:473][396]Lights with unbuilt interactions: 0
+[2021.12.12-12.16.49:473][396]
+[2021.12.12-12.16.49:473][396]Primitives with unbuilt interactions: 0
+[2021.12.12-12.16.49:613][397]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.12-12.16.49:613][397]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:16:49
+[2021.12.12-12.16.49:614][397]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,303ms to complete.
+[2021.12.12-12.16.58:576][327]MapCheck: New page: Map Check
+[2021.12.12-12.16.58:610][327]Cmd: MAP REBUILD ALLVISIBLE
+[2021.12.12-12.16.58:611][327]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.12.12-12.16.58:679][327]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2021.12.12-12.16.58:694][327]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.12.12-12.16.58:694][327]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.12.12-12.16.58:694][327]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2021.12.12-12.16.58:713][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.12.12-12.16.58:716][327]LightingResults: New page: Lighting Build - 13 дек. 2021 г., 08:16:58
+[2021.12.12-12.16.58:720][327]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.12-12.16.58:726][327]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.12-12.16.58:727][327]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.12-12.16.58:727][327]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.12-12.16.58:727][327]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20760
+[2021.12.12-12.17.03:408][327]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.12.12-12.17.03:408][327]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.12-12.17.03:408][327]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.12-12.17.03:408][327]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.12-12.17.03:408][327]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.12-12.17.03:408][327]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.12-12.17.03:506][327]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.12.12-12.17.03:506][327]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:17:03
+[2021.12.12-12.17.03:507][327]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,293ms to complete.
+[2021.12.12-12.17.03:509][327]LogEditorBuildUtils: Build time 0:04
+[2021.12.12-12.17.03:612][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.12.12-12.17.04:765][383]Job is a success!
+[2021.12.12-12.17.04:977][384]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.12.12-12.17.04:977][384]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.12.12-12.17.04:977][384]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.12.12-12.17.04:977][384]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.12-12.17.04:977][384]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.12.12-12.17.04:977][384]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.12.12-12.17.04:977][384]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.12.12-12.17.04:977][384]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.12-12.17.04:977][384]LogVolumetricLightmapImport:          MainLevel 			 1 bricks 	 100.0% (Persistent Level)
+[2021.12.12-12.17.05:044][384]Lightmass on WIN-GJCKBGU9BKU: 763 ms total, 204 ms importing, 22 ms setup, 28 ms photons, 504 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 5.53 sec total, 0 ms processing.
+[2021.12.12-12.17.05:079][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.12.12-12.17.05:182][384]LogStaticLightingSystem: Illumination: 6.33 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.12.12-12.17.05:182][384]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.12-12.17.05:182][384]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.12-12.17.05:422][384]DumpUnbuiltLightIteractions
+[2021.12.12-12.17.05:422][384]Lights with unbuilt interactions: 0
+[2021.12.12-12.17.05:422][384]
+[2021.12.12-12.17.05:422][384]Primitives with unbuilt interactions: 0
+[2021.12.12-12.17.05:558][385]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.12-12.17.05:559][385]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:17:05
+[2021.12.12-12.17.05:559][385]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,285ms to complete.
+[2021.12.12-12.17.18:905][842]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.12-12.17.47:181][ 29]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.17.47:181][ 29]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.17.53:486][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.17.53:505][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.12-12.17.53:511][717]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelF98EF6C74B10E2009B34069DAA9B2D88.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.17.53:513][717]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.17.53:513][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.17.53:514][717]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData522E931641F241187ADF3D82CC34DC66.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.17.53:515][717]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.17.53:532][717]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.17.53:532][717]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.17.53:532][717]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.18.50:313][939]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.18.50:313][939]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.19.24:156][335]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.19.24:156][335]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.20.21:528][ 72]LogEditorViewport: Clicking Background
+[2021.12.12-12.20.39:448][180]Cmd: DELETE
+[2021.12.12-12.20.39:448][180]Cmd: ACTOR DELETE
+[2021.12.12-12.20.39:454][180]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2021.12.12-12.20.39:475][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.12.12-12.20.39:478][180]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.12.12-12.20.39:984][219]Cmd: DELETE
+[2021.12.12-12.20.39:984][219]Cmd: ACTOR DELETE
+[2021.12.12-12.20.39:987][219]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.12.12-12.20.40:007][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.12.12-12.20.40:008][219]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.12.12-12.20.57:150][112]MapCheck: New page: Map Check
+[2021.12.12-12.20.57:179][112]Cmd: MAP REBUILD ALLVISIBLE
+[2021.12.12-12.20.57:179][112]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.12.12-12.20.57:254][112]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2021.12.12-12.20.57:270][112]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.12.12-12.20.57:270][112]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.12.12-12.20.57:270][112]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2021.12.12-12.20.57:290][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.12.12-12.20.57:293][112]LightingResults: New page: Lighting Build - 13 дек. 2021 г., 08:20:57
+[2021.12.12-12.20.57:298][112]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.12-12.20.57:303][112]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.12-12.20.57:304][112]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.12-12.20.57:304][112]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.12-12.20.57:304][112]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20760
+[2021.12.12-12.21.01:932][112]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.12.12-12.21.01:932][112]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.12-12.21.01:932][112]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.12-12.21.01:932][112]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.12-12.21.01:932][112]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.12-12.21.01:932][112]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.12-12.21.02:096][112]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.12.12-12.21.02:096][112]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:21:02
+[2021.12.12-12.21.02:096][112]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.12.12-12.21.02:096][112]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,369ms to complete.
+[2021.12.12-12.21.02:099][112]LogEditorBuildUtils: Build time 0:04
+[2021.12.12-12.21.02:208][112]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.12-12.21.02:208][112]LogShaderCompilers: Display: Total job queries 168, among them cache hits 0 (0.00%)
+[2021.12.12-12.21.02:208][112]LogShaderCompilers: Display: Tracking 168 distinct input hashes that result in 133 distinct outputs (79.17%)
+[2021.12.12-12.21.02:208][112]LogShaderCompilers: Display: RAM used: 0.31 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2021.12.12-12.21.02:208][112]LogShaderCompilers: Display: ================================================
+[2021.12.12-12.21.02:389][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.12.12-12.21.03:487][148]Job is a success!
+[2021.12.12-12.21.03:691][149]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.12.12-12.21.03:691][149]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.12.12-12.21.03:691][149]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.12.12-12.21.03:691][149]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.12-12.21.03:691][149]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.12.12-12.21.03:691][149]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.12.12-12.21.03:691][149]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.12.12-12.21.03:691][149]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.12-12.21.03:691][149]LogVolumetricLightmapImport:          MainLevel 			 1 bricks 	 100.0% (Persistent Level)
+[2021.12.12-12.21.03:771][149]Lightmass on WIN-GJCKBGU9BKU: 749 ms total, 183 ms importing, 25 ms setup, 32 ms photons, 482 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 5.29 sec total, 0 ms processing.
+[2021.12.12-12.21.03:771][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.12-12.21.03:869][149]LogStaticLightingSystem: Illumination: 6.45 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.12.12-12.21.03:869][149]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.12-12.21.03:869][149]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.12-12.21.03:952][149]DumpUnbuiltLightIteractions
+[2021.12.12-12.21.03:952][149]Lights with unbuilt interactions: 0
+[2021.12.12-12.21.03:952][149]
+[2021.12.12-12.21.03:952][149]Primitives with unbuilt interactions: 0
+[2021.12.12-12.21.04:132][150]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.12-12.21.04:132][150]MapCheck: New page: MainLevel - 13 дек. 2021 г., 08:21:04
+[2021.12.12-12.21.04:132][150]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,298ms to complete.
+[2021.12.12-12.21.06:288][355]LogSlate: Window 'Message Log' being destroyed
+[2021.12.12-12.21.06:299][355]LogSlate: Window 'Message Log' being destroyed
+[2021.12.12-12.21.08:995][617]LogEditorViewport: Clicking Background
+[2021.12.12-12.21.31:682][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.21.31:700][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.12.12-12.21.31:707][205]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel83B486F6432DFEF1D6069DBE42943DFA.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.21.31:710][205]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.21.31:710][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.21.31:711][205]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltDataF4854980454FBD65541B39B844B45D84.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.21.31:712][205]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.21.31:731][205]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.21.31:731][205]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.21.31:731][205]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.24.14:957][765]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.24.14:957][765]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.24.26:555][611]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.12.12-12.24.26:568][611]LogContentBrowser: Creating deferred item: NewWorld
+[2021.12.12-12.24.29:198][903]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.24.29:198][903]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.24.31:611][176]LogContentBrowser: Attempting asset rename: NewWorld -> NewLevel
+[2021.12.12-12.24.31:639][176]LogContentBrowser: End creating deferred item NewWorld
+[2021.12.12-12.24.34:127][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.12.12-12.24.35:730][443]LogSlate: Window 'Save Content' being destroyed
+[2021.12.12-12.24.35:790][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/NewLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.24.35:806][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.12.12-12.24.35:809][443]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/NewLevelBA8B21A04D832CB8D40B5297646EA845.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap'
+[2021.12.12-12.24.35:809][443]LogFileHelpers: Saving map 'NewLevel' took 0.020
+[2021.12.12-12.24.35:868][443]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_SvichkarSA/Levels/NewLevel.NewLevel
+[2021.12.12-12.24.35:868][443]Cmd: MAP LOAD FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.12-12.24.35:868][443]LightingResults: New page: Lighting Build
+[2021.12.12-12.24.35:868][443]LoadErrors: New page: Loading map: NewLevel.umap
+[2021.12.12-12.24.35:891][443]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-12.24.35:891][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-12.24.35:891][443]MapCheck: New page: Map Check
+[2021.12.12-12.24.35:891][443]LightingResults: New page: Lighting Build
+[2021.12.12-12.24.35:907][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.12-12.24.35:919][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.12.12-12.24.35:972][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.12.12-12.24.35:992][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.12.12-12.24.35:993][443]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewLevel'.
+[2021.12.12-12.24.36:069][443]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.12-12.24.36:069][443]LogAIModule: Creating AISystem for world NewLevel
+[2021.12.12-12.24.36:089][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.12.12-12.24.36:092][443]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.12-12.24.36:092][443]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,131ms to complete.
+[2021.12.12-12.24.36:092][443]LogFileHelpers: Loading map 'NewLevel' took 0.224
+[2021.12.12-12.24.36:107][443]AssetCheck: New page: Asset Save: NewLevel
+[2021.12.12-12.24.36:107][443]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/NewLevel.NewLevel
+[2021.12.12-12.24.37:894][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/NewLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.24.37:913][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.12.12-12.24.37:918][623]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/NewLevel42FBFC6D427E0BC94572CA9F5BB8EFCC.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap'
+[2021.12.12-12.24.37:921][623]LogFileHelpers: Saving map 'NewLevel' took 0.027
+[2021.12.12-12.24.37:937][623]AssetCheck: New page: Asset Save: NewLevel
+[2021.12.12-12.24.37:937][623]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/NewLevel.NewLevel
+[2021.12.12-12.24.41:119][971]LogObjectTools: Deleting 1 worlds: /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.24.41:144][971]LogObjectTools: Currently 7 active worlds: /Game/_SvichkarSA/Levels/NewLevel.NewLevel, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_6
+[2021.12.12-12.24.41:163][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.12.12-12.24.43:649][971]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.12-12.24.43:707][971]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-12.24.43:707][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-12.24.43:862][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.12.12-12.24.43:889][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.12-12.24.43:906][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.12-12.24.45:673][142]LogEditorViewport: Clicking Background
+[2021.12.12-12.25.38:168][134]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.12-12.25.40:617][406]LogEditorViewport: Clicking Background
+[2021.12.12-12.25.59:588][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/NewLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.25.59:608][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.12.12-12.25.59:614][240]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/NewLevel95E6579943393C93C7AB6BB46E88CB2C.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap'
+[2021.12.12-12.25.59:634][240]AssetCheck: New page: Asset Save: NewLevel
+[2021.12.12-12.25.59:634][240]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/NewLevel.NewLevel
+[2021.12.12-12.28.41:619][603]LogEditorViewport: Clicking Background
+[2021.12.12-12.28.45:175][ 28]Cmd: SELECT NONE
+[2021.12.12-12.31.55:804][688]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.31.55:804][688]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.32.24:096][638]MapCheck: New page: Map Check
+[2021.12.12-12.32.24:117][638]Cmd: MAP REBUILD ALLVISIBLE
+[2021.12.12-12.32.24:117][638]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.12.12-12.32.24:187][638]LogWorld: UWorld::CleanupWorld for NewLevel, bSessionEnded=true, bCleanupResources=false
+[2021.12.12-12.32.24:205][638]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.12.12-12.32.24:205][638]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.12.12-12.32.24:205][638]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2021.12.12-12.32.24:225][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.12.12-12.32.24:232][638]LightingResults: New page: Lighting Build - 13 дек. 2021 г., 08:32:24
+[2021.12.12-12.32.24:237][638]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.12-12.32.24:243][638]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.12-12.32.24:243][638]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.12-12.32.24:244][638]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.12-12.32.24:244][638]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20760
+[2021.12.12-12.32.28:819][638]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.12.12-12.32.28:820][638]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.12-12.32.28:820][638]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.12-12.32.28:820][638]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.12-12.32.28:820][638]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.12-12.32.28:820][638]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.12-12.32.28:923][638]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.12.12-12.32.28:923][638]MapCheck: New page: NewLevel - 13 дек. 2021 г., 08:32:28
+[2021.12.12-12.32.28:923][638]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.12.12-12.32.28:923][638]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,41ms to complete.
+[2021.12.12-12.32.28:926][638]LogEditorBuildUtils: Build time 0:04
+[2021.12.12-12.32.29:006][638]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.12-12.32.29:007][638]LogShaderCompilers: Display: Total job queries 168, among them cache hits 0 (0.00%)
+[2021.12.12-12.32.29:007][638]LogShaderCompilers: Display: Tracking 168 distinct input hashes that result in 133 distinct outputs (79.17%)
+[2021.12.12-12.32.29:007][638]LogShaderCompilers: Display: RAM used: 0.31 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2021.12.12-12.32.29:007][638]LogShaderCompilers: Display: ================================================
+[2021.12.12-12.32.29:117][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.12.12-12.32.30:152][673]Job is a success!
+[2021.12.12-12.32.30:362][674]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.12.12-12.32.30:362][674]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.12.12-12.32.30:362][674]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.12.12-12.32.30:362][674]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.12-12.32.30:362][674]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.12.12-12.32.30:362][674]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.12.12-12.32.30:362][674]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.12.12-12.32.30:362][674]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.12-12.32.30:362][674]LogVolumetricLightmapImport:          NewLevel 			 1 bricks 	 100.0% (Persistent Level)
+[2021.12.12-12.32.30:381][674]Lightmass on WIN-GJCKBGU9BKU: 667 ms total, 161 ms importing, 16 ms setup, 23 ms photons, 459 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 5.04 sec total, 0 ms processing.
+[2021.12.12-12.32.30:403][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.12-12.32.30:501][674]LogStaticLightingSystem: Illumination: 6.14 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.12.12-12.32.30:501][674]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.12-12.32.30:501][674]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.12-12.32.30:836][674]DumpUnbuiltLightIteractions
+[2021.12.12-12.32.30:836][674]Lights with unbuilt interactions: 0
+[2021.12.12-12.32.30:836][674]
+[2021.12.12-12.32.30:836][674]Primitives with unbuilt interactions: 0
+[2021.12.12-12.32.30:953][675]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.12-12.32.30:953][675]MapCheck: New page: NewLevel - 13 дек. 2021 г., 08:32:30
+[2021.12.12-12.32.30:953][675]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,271ms to complete.
+[2021.12.12-12.32.33:365][849]LogSlate: Window 'Message Log' being destroyed
+[2021.12.12-12.32.33:377][849]LogSlate: Window 'Message Log' being destroyed
+[2021.12.12-12.34.29:569][493]Cmd: DELETE
+[2021.12.12-12.34.29:569][493]Cmd: ACTOR DELETE
+[2021.12.12-12.34.29:571][493]LogEditorActor: Deleted Actor: SkyLight
+[2021.12.12-12.34.29:591][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.12.12-12.34.29:597][493]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.12.12-12.34.33:996][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/NewLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.34.34:015][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.12.12-12.34.34:019][ 14]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/NewLevelB5A2FD6C45FA8DED9517819270D2494D.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap'
+[2021.12.12-12.34.34:021][ 14]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/NewLevel_BuiltData
+[2021.12.12-12.34.34:022][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/NewLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.34.34:022][ 14]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/NewLevel_BuiltData14722C914DBAF06C8DD20799600645C3.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel_BuiltData.uasset'
+[2021.12.12-12.34.34:023][ 14]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/NewLevel_BuiltData
+[2021.12.12-12.34.34:036][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.34.34:037][ 14]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/NewLevel.NewLevel
+[2021.12.12-12.34.34:037][ 14]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/NewLevel_BuiltData.NewLevel_BuiltData
+[2021.12.12-12.34.41:398][842]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.34.41:399][842]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.34.44:573][210]LogContentBrowser: Attempting asset rename: NewLevel -> MainLevel
+[2021.12.12-12.34.44:682][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.34.44:683][210]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData0A75338949B2D283D39FD3AFE9ADA529.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.34.44:684][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.34.44:704][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.12.12-12.34.44:709][210]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelCD2600894A33D1D94FBDA184416D0B3B.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.34.44:711][210]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.34.44:711][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.34.44:712][210]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData46CBA1644DF1C82735BF108BF0ED8D0F.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.34.44:713][210]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/_SvichkarSA/Levels/MainLevel_BuiltData
+[2021.12.12-12.34.44:713][210]LogFileHelpers: Saving map 'MainLevel' took 0.029
+[2021.12.12-12.34.44:845][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.12.12-12.34.44:876][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.12.12-12.34.44:893][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.12-12.34.44:900][210]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.34.44:901][210]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.34.44:901][210]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.35.08:657][471]LogSlate: Window 'Source Control Login' being destroyed
