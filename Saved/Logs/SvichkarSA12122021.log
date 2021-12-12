@@ -3927,3 +3927,147 @@ Script Stack (0 frames):
 [2021.12.12-12.47.58:125][513]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.12-12.47.58:125][513]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
 [2021.12.12-12.47.58:125][513]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.49.27:035][830]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.49.27:035][830]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.54.02:973][115]BlueprintLog: New page: Compile BP_Lamp
+[2021.12.12-12.54.03:010][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.12.12-12.55.41:022][538]Cmd: TRANSACTION UNDO
+[2021.12.12-12.55.41:022][538]LogEditorTransaction: Undo Scale Elements
+[2021.12.12-12.55.54:943][710]Cmd: DELETE
+[2021.12.12-12.55.54:943][710]Cmd: ACTOR DELETE
+[2021.12.12-12.55.54:946][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.12-12.55.54:980][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.12.12-12.55.54:982][710]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2021.12.12-12.55.55:919][804]Cmd: DELETE
+[2021.12.12-12.55.55:919][804]Cmd: ACTOR DELETE
+[2021.12.12-12.55.55:921][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.12-12.55.55:946][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.12.12-12.55.55:948][804]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.12.12-12.55.56:617][869]Cmd: DELETE
+[2021.12.12-12.55.56:617][869]Cmd: ACTOR DELETE
+[2021.12.12-12.55.56:619][869]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.12-12.55.56:644][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.12.12-12.55.56:647][869]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.12.12-12.56.09:417][ 24]Cmd: EDIT COPY
+[2021.12.12-12.56.09:644][ 46]Cmd: EDIT PASTE
+[2021.12.12-12.56.37:537][716]Cmd: EDIT COPY
+[2021.12.12-12.56.37:843][745]Cmd: EDIT PASTE
+[2021.12.12-12.57.02:614][ 74]Cmd: EDIT COPY
+[2021.12.12-12.57.02:898][100]Cmd: EDIT PASTE
+[2021.12.12-12.58.21:759][475]BlueprintLog: New page: Compile BP_Lamp
+[2021.12.12-12.58.21:806][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.12.12-12.58.36:653][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/BPs/BP_Lamp" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Lamp.uasset" SILENT=true
+[2021.12.12-12.58.36:662][795]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/BP_LampC28715F74763F3BD3C3C7B96383BEB03.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Lamp.uasset'
+[2021.12.12-12.58.36:687][795]AssetCheck: New page: Asset Save: BP_Lamp
+[2021.12.12-12.58.36:687][795]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/BPs/BP_Lamp.BP_Lamp
+[2021.12.12-12.58.37:492][869]BlueprintLog: New page: Compile BP_Lamp
+[2021.12.12-12.58.37:547][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.12.12-12.58.52:239][109]LogEditorViewport: Clicking Background
+[2021.12.12-12.58.54:930][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-12.58.54:952][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.12.12-12.58.54:958][403]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelE05A19814629E17749935CB74D39F90A.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-12.58.55:070][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-12.58.55:071][403]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData1897BD314F2C54A6FCADE8B990ED5855.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-12.58.55:191][403]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-12.58.55:191][403]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-12.58.55:192][403]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-12.59.12:801][210]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.59.12:801][210]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.59.14:281][379]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-12.59.14:281][379]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-13.01.19:355][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/BPs/BP_Lamp" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Lamp.uasset" SILENT=true
+[2021.12.12-13.01.19:367][438]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/BP_Lamp1C327CCA4DF355DAF4ADCD8E548C6A75.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Lamp.uasset'
+[2021.12.12-13.01.19:393][438]AssetCheck: New page: Asset Save: BP_Lamp
+[2021.12.12-13.01.19:393][438]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/BPs/BP_Lamp.BP_Lamp
+[2021.12.12-13.01.27:648][396]BlueprintLog: New page: Compile BP_Lamp
+[2021.12.12-13.01.27:692][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.12.12-13.01.32:373][839]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.12-13.01.32:438][839]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.12-13.01.32:439][839]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.12.12-13.01.32:466][839]LogPlayLevel: [PlayLevel] Compiling FirstPersonProjectile before play...
+[2021.12.12-13.01.32:486][839]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2021.12.12-13.01.32:492][839]LogBlueprint: Warning: [AssetLog] H:\Learning\HomeWork\SvichkarSA12122021\Content\Downloads\FirstPersonConent\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2021.12.12-13.01.32:518][839]LogPlayLevel: [PlayLevel] Compiling FirstPersonHUD before play...
+[2021.12.12-13.01.32:553][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.12.12-13.01.32:555][839]LogPlayLevel: PlayLevel: Blueprint regeneration took 116 ms (4 blueprints)
+[2021.12.12-13.01.32:555][839]PIE: New page: PIE session: MainLevel (13 дек. 2021 г., 09:01:32)
+[2021.12.12-13.01.32:592][839]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.12-13.01.32:605][839]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.12-13.01.32:628][839]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.12-13.01.32:677][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048282s)
+[2021.12.12-13.01.32:695][839]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.12-13.01.32:711][839]LogPlayLevel: PIE: World Init took: (0.033365s)
+[2021.12.12-13.01.32:711][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.082439s)
+[2021.12.12-13.01.32:733][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.12.12-13.01.32:735][839]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.12-13.01.32:736][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.12-13.01.32:736][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.12-13.01.32:736][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.12-13.01.32:736][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.12-13.01.32:736][839]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.12-13.01.32:736][839]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.12-13.01.32:736][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.12-13.01.32:736][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.12-13.01.32:736][839]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.12-13.01.32:736][839]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.12-13.01.32:741][839]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.12-13.01.32:741][839]LogAudioMixer: Display: 1: FrontRight
+[2021.12.12-13.01.32:753][839]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.12-13.01.32:753][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.12-13.01.32:753][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.12-13.01.32:753][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.12-13.01.32:754][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.12-13.01.32:754][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.12-13.01.32:756][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.12-13.01.32:756][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.12-13.01.32:756][839]LogInit: FAudioDevice initialized.
+[2021.12.12-13.01.32:756][839]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2021.12.12-13.01.32:844][839]LogLoad: Game class is 'GameModeBase'
+[2021.12.12-13.01.32:851][839]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.12-23.01.32
+[2021.12.12-13.01.32:868][839]LogWorld: Bringing up level for play took: 0.024283
+[2021.12.12-13.01.32:870][839]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.12.12-13.01.33:004][839]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2021.12.12-13.01.33:130][839]PIE: Server logged in
+[2021.12.12-13.01.33:131][839]PIE: Play in editor total start time 0,754 seconds.
+[2021.12.12-13.01.45:804][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-13.01.45:805][238]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.12-13.01.45:805][238]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-13.01.45:805][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-13.01.45:831][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.12-13.01.45:838][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-13.01.45:868][238]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.12-13.01.45:870][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-13.01.45:871][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-13.01.45:874][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-13.01.45:934][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.12.12-13.01.45:973][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.12.12-13.01.45:992][239]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.12.12-13.09.08:576][444]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.12.12-13.09.08:585][444]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_Auto15988BB4F436BA955C3236BA9C631C48B.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/Levels/MainLevel_Auto1.umap'
+[2021.12.12-13.09.08:610][444]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_SvichkarSA/Levels/MainLevel' took 0.040
+[2021.12.12-13.09.08:611][444]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2021.12.12-13.10.13:145][191]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-13.10.13:145][191]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-13.10.14:372][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-13.10.14:397][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.12.12-13.10.14:403][304]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel227134B747864C10CC172A97EF306BEC.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-13.10.14:522][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-13.10.14:523][304]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltDataAB9901054C4566D8750D1780C3F30975.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-13.10.14:634][304]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-13.10.14:634][304]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-13.10.14:634][304]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-13.10.22:745][106]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.12-13.10.22:769][106]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.12-13.10.22:781][106]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.12-13.10.25:384][390]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-13.10.25:384][390]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.12-13.10.28:443][741]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.12.12-13.10.28:443][741]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.12-13.10.30:420][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-13.10.30:448][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.12.12-13.10.30:454][956]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelB68BFFDE403A0E3F93E2AD970032213C.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-13.10.30:562][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-13.10.30:563][956]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData4C2FAF3149AC67D9EAF02EA1170A0473.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-13.10.30:694][956]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-13.10.30:694][956]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-13.10.30:694][956]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
