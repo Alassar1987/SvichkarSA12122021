@@ -4071,3 +4071,155 @@ Script Stack (0 frames):
 [2021.12.12-13.10.30:694][956]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.12-13.10.30:694][956]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
 [2021.12.12-13.10.30:694][956]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-13.11.08:353][567]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.12-13.11.08:376][567]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.12-13.11.08:388][567]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.12-13.11.27:158][790]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Fan
+[2021.12.12-13.11.27:330][790]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.12-13.11.28:754][953]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_SvichkarSA/BPs/BP_Fan.BP_Fan
+[2021.12.12-13.11.45:657][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/BPs/BP_Fan" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Fan.uasset" SILENT=true
+[2021.12.12-13.11.45:661][683]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/BP_FanD5BC238243C2F9CB135EB6B9AA3494B2.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Fan.uasset'
+[2021.12.12-13.11.45:848][683]AssetCheck: New page: Asset Save: BP_Fan
+[2021.12.12-13.11.45:848][683]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/BPs/BP_Fan.BP_Fan
+[2021.12.12-13.11.46:654][767]BlueprintLog: New page: Compile BP_Fan
+[2021.12.12-13.11.46:705][767]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2021.12.12-13.12.00:191][  9]BlueprintLog: New page: Compile BP_Fan
+[2021.12.12-13.12.00:243][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.12.12-13.13.23:968][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/BPs/BP_Fan" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Fan.uasset" SILENT=true
+[2021.12.12-13.13.23:978][181]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/BP_Fan432962DD46CED62DFD4200A1ED578B9B.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Fan.uasset'
+[2021.12.12-13.13.23:993][181]AssetCheck: New page: Asset Save: BP_Fan
+[2021.12.12-13.13.23:993][181]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/BPs/BP_Fan.BP_Fan
+[2021.12.12-13.13.25:914][396]BlueprintLog: New page: Compile BP_Fan
+[2021.12.12-13.13.25:977][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.12.12-13.13.28:859][609]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.12-13.13.28:897][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.12-13.13.28:897][609]PIE: New page: PIE session: MainLevel (13 дек. 2021 г., 09:13:28)
+[2021.12.12-13.13.28:897][609]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.12-13.13.28:899][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001776s)
+[2021.12.12-13.13.28:900][609]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.12-13.13.28:901][609]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2021.12.12-13.13.28:901][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003364s)
+[2021.12.12-13.13.28:933][609]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.12.12-13.13.28:935][609]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.12-13.13.28:935][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.12-13.13.28:936][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.12-13.13.28:936][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.12-13.13.28:936][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.12-13.13.28:936][609]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.12-13.13.28:936][609]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.12-13.13.28:936][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.12-13.13.28:936][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.12-13.13.28:936][609]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.12-13.13.28:936][609]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.12-13.13.28:940][609]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.12-13.13.28:940][609]LogAudioMixer: Display: 1: FrontRight
+[2021.12.12-13.13.28:951][609]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.12-13.13.28:951][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.12-13.13.28:951][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.12-13.13.28:951][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.12-13.13.28:953][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.12-13.13.28:953][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.12-13.13.28:954][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.12-13.13.28:954][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.12-13.13.28:954][609]LogInit: FAudioDevice initialized.
+[2021.12.12-13.13.28:954][609]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2021.12.12-13.13.28:969][609]LogLoad: Game class is 'GameModeBase'
+[2021.12.12-13.13.28:970][609]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.12-23.13.28
+[2021.12.12-13.13.28:970][609]LogWorld: Bringing up level for play took: 0.000724
+[2021.12.12-13.13.28:970][609]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.12.12-13.13.28:973][609]PIE: Server logged in
+[2021.12.12-13.13.28:974][609]PIE: Play in editor total start time 0,111 seconds.
+[2021.12.12-13.13.29:118][611]LogRenderer: BeginUpdateLumenSceneTasks 34 Card Renders 41.3ms
+[2021.12.12-13.13.35:814][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-13.13.35:814][ 76]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.12-13.13.35:814][ 76]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-13.13.35:814][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-13.13.35:844][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.12-13.13.35:856][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-13.13.35:883][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-13.13.35:884][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-13.13.35:885][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-13.13.35:891][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.12.12-13.13.35:923][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.12.12-13.13.35:955][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.12.12-13.13.44:661][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/BPs/BP_Fan" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Fan.uasset" SILENT=true
+[2021.12.12-13.13.44:672][960]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/BP_Fan603BD94B4C147C741B6B8DAE4276BD28.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/BPs/BP_Fan.uasset'
+[2021.12.12-13.13.44:699][960]AssetCheck: New page: Asset Save: BP_Fan
+[2021.12.12-13.13.44:699][960]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/BPs/BP_Fan.BP_Fan
+[2021.12.12-13.13.45:641][ 56]BlueprintLog: New page: Compile BP_Fan
+[2021.12.12-13.13.45:702][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.12.12-13.13.50:614][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-13.13.50:648][387]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.12.12-13.13.50:656][387]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel4FE7B76E4B696F40A97CEFA3C6F598BF.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-13.13.50:767][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-13.13.50:768][387]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData5A7649C44E31400C5DDA37B6613C5EBA.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-13.13.50:891][387]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-13.13.50:891][387]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-13.13.50:891][387]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-13.13.55:315][818]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.12-13.13.55:320][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.12-13.13.55:321][818]PIE: New page: PIE session: MainLevel (13 дек. 2021 г., 09:13:55)
+[2021.12.12-13.13.55:321][818]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.12-13.13.55:323][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001752s)
+[2021.12.12-13.13.55:324][818]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.12-13.13.55:324][818]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2021.12.12-13.13.55:324][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003218s)
+[2021.12.12-13.13.55:354][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.12.12-13.13.55:355][818]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.12-13.13.55:355][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.12-13.13.55:355][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.12-13.13.55:355][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.12-13.13.55:355][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.12-13.13.55:355][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.12-13.13.55:355][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.12-13.13.55:355][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.12-13.13.55:355][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.12-13.13.55:356][818]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.12-13.13.55:356][818]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.12-13.13.55:360][818]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.12-13.13.55:360][818]LogAudioMixer: Display: 1: FrontRight
+[2021.12.12-13.13.55:370][818]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.12-13.13.55:370][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.12-13.13.55:370][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.12-13.13.55:371][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.12-13.13.55:372][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.12-13.13.55:372][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.12-13.13.55:373][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.12-13.13.55:373][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.12-13.13.55:373][818]LogInit: FAudioDevice initialized.
+[2021.12.12-13.13.55:373][818]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2021.12.12-13.13.55:385][818]LogLoad: Game class is 'GameModeBase'
+[2021.12.12-13.13.55:386][818]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.12-23.13.55
+[2021.12.12-13.13.55:386][818]LogWorld: Bringing up level for play took: 0.000749
+[2021.12.12-13.13.55:386][818]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.12.12-13.13.55:389][818]PIE: Server logged in
+[2021.12.12-13.13.55:389][818]PIE: Play in editor total start time 0,07 seconds.
+[2021.12.12-13.13.55:485][820]LogRenderer: BeginUpdateLumenSceneTasks 34 Card Renders 40.0ms
+[2021.12.12-13.14.04:532][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-13.14.04:532][451]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.12-13.14.04:532][451]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-13.14.04:532][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-13.14.04:606][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.12-13.14.04:619][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-13.14.04:645][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-13.14.04:645][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-13.14.04:647][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-13.14.04:653][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.12.12-13.14.04:687][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.12.12-13.14.04:720][452]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.12.12-13.14.05:508][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-13.14.05:539][490]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.12.12-13.14.05:546][490]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelA89FFC944F6C7AEBF216F0AE2830DE15.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-13.14.05:646][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-13.14.05:647][490]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData6E62215C4594E68447DAAF882B601CD4.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-13.14.05:775][490]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-13.14.05:775][490]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-13.14.05:775][490]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.12-13.14.15:131][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.12-13.14.15:161][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.12.12-13.14.15:168][432]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelABEFBCCC44C412CA51B93D877ED2782A.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.12-13.14.15:271][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.12-13.14.15:272][432]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData085A44474D405ED3F8DFC2B066452BBB.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.12-13.14.15:394][432]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-13.14.15:394][432]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.12-13.14.15:394][432]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
