@@ -1845,3 +1845,975 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.12.14-11.19.47:239][727]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.14-11.19.47:239][727]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
 [2021.12.14-11.19.47:240][727]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.14-11.20.30:165][241]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.20.30:172][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.20.30:172][241]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:20:30)
+[2021.12.14-11.20.30:173][241]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.20.30:175][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002295s)
+[2021.12.14-11.20.30:176][241]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.20.30:177][241]LogPlayLevel: PIE: World Init took: (0.001476s)
+[2021.12.14-11.20.30:177][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003959s)
+[2021.12.14-11.20.30:202][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.12.14-11.20.30:203][241]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.12.14-11.20.30:203][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.20.30:203][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.20.30:203][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.20.30:203][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.20.30:203][241]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.20.30:203][241]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.20.30:203][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.20.30:203][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.20.30:204][241]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.20.30:204][241]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.20.30:208][241]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.20.30:208][241]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.20.30:219][241]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.20.30:220][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.20.30:220][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.20.30:220][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.20.30:220][241]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.20.30:220][241]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.20.30:222][241]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.20.30:222][241]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.20.30:222][241]LogInit: FAudioDevice initialized.
+[2021.12.14-11.20.30:222][241]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainLevel'.
+[2021.12.14-11.20.30:231][241]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.20.30:231][241]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.20.30
+[2021.12.14-11.20.30:232][241]LogWorld: Bringing up level for play took: 0.000777
+[2021.12.14-11.20.30:232][241]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.12.14-11.20.30:235][241]PIE: Server logged in
+[2021.12.14-11.20.30:236][241]PIE: Play in editor total start time 0,065 seconds.
+[2021.12.14-11.20.37:778][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.20.37:778][ 65]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.20.37:778][ 65]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.20.37:778][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.20.37:789][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.20.37:811][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.20.37:833][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.20.37:833][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.20.37:834][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.20.37:841][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.12.14-11.20.37:865][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.12.14-11.20.37:916][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.12.14-11.20.49:720][960]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.20.49:727][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.20.49:727][960]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:20:49)
+[2021.12.14-11.20.49:728][960]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.20.49:730][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001949s)
+[2021.12.14-11.20.49:731][960]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.20.49:731][960]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2021.12.14-11.20.49:731][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003478s)
+[2021.12.14-11.20.49:756][960]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.12.14-11.20.49:759][960]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.12.14-11.20.49:759][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.20.49:759][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.20.49:759][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.20.49:759][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.20.49:759][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.20.49:759][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.20.49:759][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.20.49:759][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.20.49:760][960]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.20.49:760][960]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.20.49:763][960]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.20.49:763][960]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.20.49:774][960]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.20.49:774][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.20.49:774][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.20.49:774][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.20.49:775][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.20.49:775][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.20.49:776][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.20.49:776][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.20.49:776][960]LogInit: FAudioDevice initialized.
+[2021.12.14-11.20.49:776][960]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainLevel'.
+[2021.12.14-11.20.49:791][960]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.20.49:792][960]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.20.49
+[2021.12.14-11.20.49:793][960]LogWorld: Bringing up level for play took: 0.000966
+[2021.12.14-11.20.49:793][960]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.12.14-11.20.49:796][960]PIE: Server logged in
+[2021.12.14-11.20.49:797][960]PIE: Play in editor total start time 0,071 seconds.
+[2021.12.14-11.21.07:931][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.21.07:931][ 29]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.21.07:931][ 29]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.21.07:931][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.21.07:943][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.21.07:965][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.21.07:988][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-11.21.07:988][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.21.07:989][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.21.07:991][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.21.07:995][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.12.14-11.21.08:020][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.12.14-11.21.08:065][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.12.14-11.21.41:190][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-11.21.41:216][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.12.14-11.21.41:226][499]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelEAF5F71D4E8422B96F12C2BF437C1BC3.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.14-11.21.41:343][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.14-11.21.41:344][499]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData13581C8B402A9B36115C12B512A97B05.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.14-11.21.41:464][499]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-11.21.41:464][499]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.14-11.21.41:464][499]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.14-11.22.00:619][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-11.22.00:646][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.12.14-11.22.00:653][ 33]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelCCF50A384BAD6C7102DA92B7A3E878B1.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.14-11.22.00:773][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.14-11.22.00:775][ 33]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltData28B15B5D4A00DABF9CEAC2898299B720.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.14-11.22.00:893][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-11.22.00:893][ 33]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.14-11.22.00:893][ 33]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.14-11.22.26:224][209]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/M_Tech_Hex_Tile8BF7EC64457311EADD7E04825CC58357.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/Downloads/StarterContent/Materials/M_Tech_Hex_Tile.uasset'
+[2021.12.14-11.22.26:256][209]AssetCheck: New page: Asset Save: M_Tech_Hex_Tile
+[2021.12.14-11.22.26:256][209]LogContentValidation: Display: Validating Material /Game/Downloads/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile
+[2021.12.14-11.30.34:434][ 57]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.30.34:483][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.12.14-11.31.05:570][180]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.31.05:620][180]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.12.14-11.31.06:830][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.31.06:847][283]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter3AFAD3F7421DF9BEF2F11DA23826504B.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.31.06:884][283]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.31.06:885][283]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.31.10:308][676]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.31.10:314][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.31.10:314][676]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:31:10)
+[2021.12.14-11.31.10:315][676]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.31.10:317][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001913s)
+[2021.12.14-11.31.10:318][676]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.31.10:318][676]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2021.12.14-11.31.10:318][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003436s)
+[2021.12.14-11.31.10:344][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.12.14-11.31.10:347][676]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.12.14-11.31.10:347][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.31.10:347][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.31.10:347][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.31.10:347][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.31.10:347][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.31.10:347][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.31.10:347][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.31.10:347][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.31.10:348][676]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.31.10:348][676]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.31.10:352][676]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.31.10:352][676]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.31.10:364][676]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.31.10:364][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.31.10:364][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.31.10:364][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.31.10:365][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.31.10:365][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.31.10:367][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.31.10:367][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.31.10:367][676]LogInit: FAudioDevice initialized.
+[2021.12.14-11.31.10:367][676]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2021.12.14-11.31.10:406][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.31.10:407][676]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.31.10:408][676]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.31.10
+[2021.12.14-11.31.10:408][676]LogWorld: Bringing up level for play took: 0.001088
+[2021.12.14-11.31.10:408][676]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.12.14-11.31.10:413][676]PIE: Server logged in
+[2021.12.14-11.31.10:414][676]PIE: Play in editor total start time 0,101 seconds.
+[2021.12.14-11.31.18:565][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.31.18:565][ 35]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.31.18:565][ 35]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.31.18:571][ 35]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.31.18:572][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.31.18:586][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.31.18:608][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.31.18:633][ 35]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-11.31.18:633][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.31.18:634][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.31.18:640][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.12.14-11.31.18:666][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.12.14-11.31.18:684][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.12.14-11.31.20:038][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.31.20:050][172]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter020E82AB4E3AAE88FB6289BF35CD0634.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.31.20:064][172]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.31.20:064][172]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.32.22:071][988]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.12.14-11.32.22:073][988]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_SvichkarSA/Levels/MainLevel' took 0.029
+[2021.12.14-11.32.22:074][988]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_SvichkarSA/Characters/MainCharacter] ([1] browsable assets)...
+[2021.12.14-11.32.22:178][988]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter]
+[2021.12.14-11.32.22:178][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/_SvichkarSA/Characters/MainCharacter]
+[2021.12.14-11.32.22:195][988]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter_Auto251B982524DA4954F4A61C2896BF245AB.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/Characters/MainCharacter_Auto2.uasset'
+[2021.12.14-11.32.22:196][988]LogFileHelpers: Auto-saving content packages took 0.122
+[2021.12.14-11.32.31:723][819]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.32.31:772][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.12.14-11.32.32:836][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.32.32:853][873]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter5E1CF2044CF9D8697D24C59B43C39A8F.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.32.32:886][873]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.32.32:886][873]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.33.03:653][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.33.03:671][504]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter3FDB5BED44C8AF331C36AE9BD74EB4D4.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.33.03:688][504]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.33.03:688][504]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.33.04:642][584]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.33.04:692][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.12.14-11.33.05:456][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.33.05:473][616]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter612F507949DCE7DA922D2D85B05CF43A.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.33.05:508][616]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.33.05:508][616]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.33.06:100][669]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.33.06:106][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.33.06:107][669]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:33:06)
+[2021.12.14-11.33.06:107][669]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.33.06:109][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001830s)
+[2021.12.14-11.33.06:110][669]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.33.06:110][669]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2021.12.14-11.33.06:110][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003427s)
+[2021.12.14-11.33.06:137][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.12.14-11.33.06:142][669]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.12.14-11.33.06:142][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.33.06:142][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.33.06:142][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.33.06:142][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.33.06:142][669]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.33.06:142][669]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.33.06:142][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.33.06:143][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.33.06:143][669]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.33.06:143][669]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.33.06:147][669]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.33.06:147][669]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.33.06:157][669]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.33.06:158][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.33.06:158][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.33.06:158][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.33.06:159][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.33.06:159][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.33.06:160][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.33.06:160][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.33.06:160][669]LogInit: FAudioDevice initialized.
+[2021.12.14-11.33.06:160][669]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainLevel'.
+[2021.12.14-11.33.06:205][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.33.06:205][669]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.33.06:206][669]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.33.06
+[2021.12.14-11.33.06:206][669]LogWorld: Bringing up level for play took: 0.001245
+[2021.12.14-11.33.06:207][669]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.12.14-11.33.06:213][669]PIE: Server logged in
+[2021.12.14-11.33.06:214][669]PIE: Play in editor total start time 0,109 seconds.
+[2021.12.14-11.33.12:218][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.33.12:218][930]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.33.12:219][930]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.33.12:226][930]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.33.12:226][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.33.12:233][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.33.12:255][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.33.12:278][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-11.33.12:279][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.33.12:280][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.33.12:286][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.12.14-11.33.12:315][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.12.14-11.33.12:338][931]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.12.14-11.33.23:170][ 92]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.33.23:179][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.33.23:179][ 92]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:33:23)
+[2021.12.14-11.33.23:179][ 92]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.33.23:181][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001842s)
+[2021.12.14-11.33.23:182][ 92]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.33.23:182][ 92]LogPlayLevel: PIE: World Init took: (0.001290s)
+[2021.12.14-11.33.23:182][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003271s)
+[2021.12.14-11.33.23:209][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.12.14-11.33.23:210][ 92]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.12.14-11.33.23:210][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.33.23:210][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.33.23:210][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.33.23:211][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.33.23:211][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.33.23:211][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.33.23:211][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.33.23:211][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.33.23:211][ 92]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.33.23:211][ 92]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.33.23:215][ 92]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.33.23:215][ 92]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.33.23:226][ 92]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.33.23:226][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.33.23:226][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.33.23:226][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.33.23:227][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.33.23:227][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.33.23:228][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.33.23:228][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.33.23:228][ 92]LogInit: FAudioDevice initialized.
+[2021.12.14-11.33.23:228][ 92]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainLevel'.
+[2021.12.14-11.33.23:280][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.33.23:281][ 92]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.33.23:282][ 92]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.33.23
+[2021.12.14-11.33.23:282][ 92]LogWorld: Bringing up level for play took: 0.001119
+[2021.12.14-11.33.23:282][ 92]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.12.14-11.33.23:288][ 92]PIE: Server logged in
+[2021.12.14-11.33.23:290][ 92]PIE: Play in editor total start time 0,113 seconds.
+[2021.12.14-11.33.41:142][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.33.41:142][856]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.33.41:142][856]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.33.41:145][856]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.33.41:145][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.33.41:157][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.33.41:179][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.33.41:203][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.33.41:204][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.33.41:211][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.12.14-11.33.41:238][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.12.14-11.33.41:261][857]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.12.14-11.34.05:239][324]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.34.05:289][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.12.14-11.34.06:239][391]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.34.06:246][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.34.06:246][391]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:34:06)
+[2021.12.14-11.34.06:246][391]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.34.06:248][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001794s)
+[2021.12.14-11.34.06:249][391]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.34.06:249][391]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2021.12.14-11.34.06:249][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003341s)
+[2021.12.14-11.34.06:279][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.12.14-11.34.06:284][391]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.12.14-11.34.06:284][391]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.34.06:284][391]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.34.06:284][391]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.34.06:284][391]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.34.06:284][391]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.34.06:284][391]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.34.06:284][391]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.34.06:284][391]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.34.06:284][391]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.34.06:284][391]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.34.06:288][391]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.34.06:288][391]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.34.06:298][391]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.34.06:299][391]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.34.06:299][391]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.34.06:299][391]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.34.06:300][391]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.34.06:300][391]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.34.06:302][391]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.34.06:302][391]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.34.06:302][391]LogInit: FAudioDevice initialized.
+[2021.12.14-11.34.06:302][391]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainLevel'.
+[2021.12.14-11.34.06:348][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.34.06:348][391]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.34.06:349][391]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.34.06
+[2021.12.14-11.34.06:350][391]LogWorld: Bringing up level for play took: 0.001122
+[2021.12.14-11.34.06:350][391]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.12.14-11.34.06:355][391]PIE: Server logged in
+[2021.12.14-11.34.06:357][391]PIE: Play in editor total start time 0,112 seconds.
+[2021.12.14-11.34.28:188][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.34.28:188][498]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.34.28:188][498]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.34.28:195][498]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.34.28:195][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.34.28:205][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.34.28:235][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.34.28:259][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-11.34.28:259][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.34.28:261][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.34.28:267][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.12.14-11.34.28:294][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.12.14-11.34.28:315][499]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.12.14-11.34.55:032][800]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.34.55:039][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.34.55:039][800]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:34:55)
+[2021.12.14-11.34.55:039][800]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.34.55:042][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001899s)
+[2021.12.14-11.34.55:043][800]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.34.55:043][800]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2021.12.14-11.34.55:043][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003487s)
+[2021.12.14-11.34.55:070][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.12.14-11.34.55:071][800]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.12.14-11.34.55:071][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.34.55:071][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.34.55:071][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.34.55:071][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.34.55:071][800]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.34.55:071][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.34.55:071][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.34.55:071][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.34.55:072][800]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.34.55:072][800]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.34.55:076][800]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.34.55:076][800]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.34.55:088][800]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.34.55:088][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.34.55:088][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.34.55:088][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.34.55:089][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.34.55:089][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.34.55:090][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.34.55:090][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.34.55:090][800]LogInit: FAudioDevice initialized.
+[2021.12.14-11.34.55:090][800]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainLevel'.
+[2021.12.14-11.34.55:133][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.34.55:133][800]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.34.55:134][800]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.34.55
+[2021.12.14-11.34.55:134][800]LogWorld: Bringing up level for play took: 0.001155
+[2021.12.14-11.34.55:135][800]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.12.14-11.34.55:140][800]PIE: Server logged in
+[2021.12.14-11.34.55:142][800]PIE: Play in editor total start time 0,103 seconds.
+[2021.12.14-11.35.12:483][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.35.12:483][ 57]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.35.12:483][ 57]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.35.12:490][ 57]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.35.12:490][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.35.12:500][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.35.12:525][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.35.12:549][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.35.12:550][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.35.12:557][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.12.14-11.35.12:586][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.12.14-11.35.12:606][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.12.14-11.35.53:380][968]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.35.53:430][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.12.14-11.36.47:050][215]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.14-11.36.47:050][215]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.14-11.36.49:218][386]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.36.49:225][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.36.49:226][386]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:36:49)
+[2021.12.14-11.36.49:226][386]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.36.49:228][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002523s)
+[2021.12.14-11.36.49:229][386]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.36.49:230][386]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2021.12.14-11.36.49:230][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.004164s)
+[2021.12.14-11.36.49:259][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.12.14-11.36.49:264][386]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.12.14-11.36.49:265][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.36.49:265][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.36.49:265][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.36.49:265][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.36.49:265][386]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.36.49:265][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.36.49:265][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.36.49:265][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.36.49:265][386]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.36.49:265][386]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.36.49:271][386]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.36.49:271][386]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.36.49:285][386]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.36.49:286][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.36.49:286][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.36.49:286][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.36.49:287][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.36.49:287][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.36.49:288][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.36.49:289][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.36.49:289][386]LogInit: FAudioDevice initialized.
+[2021.12.14-11.36.49:289][386]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainLevel'.
+[2021.12.14-11.36.49:330][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.36.49:330][386]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.36.49:331][386]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.36.49
+[2021.12.14-11.36.49:332][386]LogWorld: Bringing up level for play took: 0.001051
+[2021.12.14-11.36.49:332][386]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.12.14-11.36.49:339][386]PIE: Server logged in
+[2021.12.14-11.36.49:341][386]PIE: Play in editor total start time 0,117 seconds.
+[2021.12.14-11.37.01:556][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.37.01:556][102]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.37.01:556][102]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.37.01:565][102]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.37.01:565][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.37.01:577][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.37.01:601][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.37.01:628][102]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-11.37.01:628][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.37.01:629][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.37.01:636][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.12.14-11.37.01:666][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.12.14-11.37.01:688][103]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.12.14-11.37.03:824][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.37.03:843][265]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacterDD1DE541429E73A1F9D7998F3B8007F9.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.37.03:878][265]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.37.03:878][265]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.38.53:052][702]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.38.53:105][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.12.14-11.38.54:511][812]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.38.54:517][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.38.54:517][812]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:38:54)
+[2021.12.14-11.38.54:517][812]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.38.54:519][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001897s)
+[2021.12.14-11.38.54:520][812]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.38.54:521][812]LogPlayLevel: PIE: World Init took: (0.001366s)
+[2021.12.14-11.38.54:521][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003400s)
+[2021.12.14-11.38.54:547][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.12.14-11.38.54:551][812]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.12.14-11.38.54:551][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.38.54:551][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.38.54:551][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.38.54:551][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.38.54:551][812]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.38.54:551][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.38.54:551][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.38.54:551][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.38.54:551][812]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.38.54:551][812]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.38.54:555][812]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.38.54:555][812]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.38.54:566][812]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.38.54:566][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.38.54:566][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.38.54:566][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.38.54:568][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.38.54:568][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.38.54:569][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.38.54:569][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.38.54:569][812]LogInit: FAudioDevice initialized.
+[2021.12.14-11.38.54:569][812]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainLevel'.
+[2021.12.14-11.38.54:610][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.38.54:610][812]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.38.54:612][812]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.38.54
+[2021.12.14-11.38.54:612][812]LogWorld: Bringing up level for play took: 0.001186
+[2021.12.14-11.38.54:612][812]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.12.14-11.38.54:618][812]PIE: Server logged in
+[2021.12.14-11.38.54:619][812]PIE: Play in editor total start time 0,103 seconds.
+[2021.12.14-11.39.23:523][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.39.23:523][674]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.39.23:524][674]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.39.23:532][674]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.39.23:532][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.39.23:539][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.39.23:562][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.39.23:586][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-11.39.23:586][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.39.23:587][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.39.23:594][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.12.14-11.39.23:621][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.12.14-11.39.23:642][675]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.12.14-11.39.25:183][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.39.25:201][803]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacterCC3F4EF149EB31B4EE0DC384D0929412.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.39.25:216][803]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.39.25:217][803]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.40.12:533][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.40.12:547][279]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter99FFB1B84D0BA4EFB2D3EEA7F4852DF3.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.40.12:568][279]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.40.12:568][279]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.40.51:117][ 71]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2021.12.14-11.40.51:171][ 71]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.41.53:363][804]LogSlate: Took 0.011379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.14-11.42.35:494][112]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.42.35:501][112]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.14-11.42.35:502][112]LogPlayLevel: [PlayLevel] Compiling MainCharacter before play...
+[2021.12.14-11.42.35:604][112]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2021.12.14-11.42.35:609][112]LogPlayLevel: PlayLevel: Blueprint regeneration took 108 ms (1 blueprints)
+[2021.12.14-11.42.35:609][112]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:42:35)
+[2021.12.14-11.42.35:609][112]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.42.35:612][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002275s)
+[2021.12.14-11.42.35:613][112]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.42.35:613][112]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2021.12.14-11.42.35:613][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003936s)
+[2021.12.14-11.42.35:639][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.12.14-11.42.35:640][112]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.12.14-11.42.35:640][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.42.35:640][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.42.35:640][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.42.35:640][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.42.35:640][112]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.42.35:640][112]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.42.35:640][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.42.35:640][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.42.35:641][112]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.42.35:641][112]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.42.35:646][112]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.42.35:646][112]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.42.35:657][112]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.42.35:658][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.42.35:658][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.42.35:658][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.42.35:659][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.42.35:659][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.42.35:660][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.42.35:660][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.42.35:660][112]LogInit: FAudioDevice initialized.
+[2021.12.14-11.42.35:660][112]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainLevel'.
+[2021.12.14-11.42.35:706][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.42.35:706][112]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.42.35:707][112]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.42.35
+[2021.12.14-11.42.35:707][112]LogWorld: Bringing up level for play took: 0.001052
+[2021.12.14-11.42.35:707][112]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.12.14-11.42.35:713][112]PIE: Server logged in
+[2021.12.14-11.42.35:714][112]PIE: Play in editor total start time 0,215 seconds.
+[2021.12.14-11.42.38:737][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.42.38:737][296]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.42.38:738][296]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.42.38:747][296]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.42.38:748][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.42.38:757][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.42.38:779][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.42.38:804][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.42.38:805][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.42.38:813][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.12.14-11.42.38:843][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.12.14-11.42.38:867][297]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.12.14-11.42.40:343][459]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.42.40:395][459]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.12.14-11.42.44:954][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.42.44:972][917]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter396462A74325CEA7A88997B208C8712E.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.42.45:007][917]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.42.45:007][917]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.42.48:077][235]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.42.55:042][930]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.43.01:487][507]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.43.01:560][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.12.14-11.43.11:365][568]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.43.11:372][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.43.11:372][568]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:43:11)
+[2021.12.14-11.43.11:372][568]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.43.11:374][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001924s)
+[2021.12.14-11.43.11:375][568]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.43.11:375][568]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2021.12.14-11.43.11:376][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003532s)
+[2021.12.14-11.43.11:403][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.12.14-11.43.11:407][568]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.12.14-11.43.11:407][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.43.11:407][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.43.11:407][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.43.11:407][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.43.11:407][568]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.43.11:407][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.43.11:407][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.43.11:407][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.43.11:408][568]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.43.11:408][568]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.43.11:412][568]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.43.11:412][568]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.43.11:423][568]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.43.11:424][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.43.11:424][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.43.11:424][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.43.11:425][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.43.11:425][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.43.11:426][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.43.11:426][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.43.11:426][568]LogInit: FAudioDevice initialized.
+[2021.12.14-11.43.11:426][568]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainLevel'.
+[2021.12.14-11.43.11:472][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.43.11:473][568]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.43.11:474][568]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.43.11
+[2021.12.14-11.43.11:474][568]LogWorld: Bringing up level for play took: 0.001178
+[2021.12.14-11.43.11:474][568]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.12.14-11.43.11:480][568]PIE: Server logged in
+[2021.12.14-11.43.11:481][568]PIE: Play in editor total start time 0,11 seconds.
+[2021.12.14-11.43.14:730][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.43.14:731][768]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.43.14:731][768]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.43.14:740][768]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.43.14:740][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.43.14:753][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.43.14:779][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.43.14:803][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-11.43.14:803][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.43.14:804][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.43.14:810][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.12.14-11.43.14:839][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.12.14-11.43.14:857][769]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.12.14-11.43.16:793][966]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.43.18:541][150]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.14-11.43.18:541][150]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.14-11.43.26:165][950]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.43.26:238][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.12.14-11.43.38:751][244]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.43.43:447][760]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.43.59:888][320]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.43.59:963][320]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.12.14-11.44.12:301][486]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 0707D8565A117FA02302F92A0D5AD14D6B2959D5), compiling. 
+[2021.12.14-11.44.12:515][486]LogTexture: Display: Building textures: T_MH_N (BC5, 1024X1024)
+[2021.12.14-11.44.12:515][486]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: D1D7FA9C323250B37B7C1E14EF58F2832A87CD19), compiling. 
+[2021.12.14-11.44.15:124][501]SourceControl: fatal: D:/Games/Epic Games/UE_5.0EA/Engine/Plugins/Bridge/Content/Mannequin/Animations: 'D:/Games/Epic Games/UE_5.0EA/Engine/Plugins/Bridge/Content/Mannequin/Animations' is outside repository at 'H:/Learning/HomeWork/SvichkarSA12122021'
+[2021.12.14-11.44.18:789][644]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Bridge/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.12.14-11.44.19:094][644]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2021.12.14-11.44.19:212][644]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.14-11.44.19:404][644]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2021.12.14-11.44.20:922][644]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2021.12.14-11.44.21:392][644]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.673698s (0.673698s overbudget)
+[2021.12.14-11.44.23:793][658]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.14-11.44.23:793][658]LogShaderCompilers: Display: Total job queries 290, among them cache hits 0 (0.00%)
+[2021.12.14-11.44.23:794][658]LogShaderCompilers: Display: Tracking 136 distinct input hashes that result in 88 distinct outputs (64.71%)
+[2021.12.14-11.44.23:794][658]LogShaderCompilers: Display: RAM used: 0.27 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2021.12.14-11.44.23:794][658]LogShaderCompilers: Display: ================================================
+[2021.12.14-11.45.11:861][  3]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2021.12.14-11.45.11:989][  3]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.45.11:989][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.45.12:025][  3]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.45.12:025][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.45.12:248][  3]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.45.12:248][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.45.15:314][264]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2021.12.14-11.45.15:316][264]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_SvichkarSA/Levels/MainLevel' took 0.207
+[2021.12.14-11.45.15:319][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_SvichkarSA/Characters/MainCharacter] ([1] browsable assets)...
+[2021.12.14-11.45.15:348][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter]
+[2021.12.14-11.45.15:348][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/_SvichkarSA/Characters/MainCharacter]
+[2021.12.14-11.45.15:365][264]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter_Auto30472D7F44C792E6A05CA389C2D79CBB4.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/Characters/MainCharacter_Auto3.uasset'
+[2021.12.14-11.45.15:365][264]LogFileHelpers: Auto-saving content packages took 0.047
+[2021.12.14-11.45.15:606][285]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.45.43:287][381]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.45.43:525][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.12.14-11.45.53:755][429]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.45.53:762][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.45.53:762][429]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:45:53)
+[2021.12.14-11.45.53:762][429]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.45.53:764][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002088s)
+[2021.12.14-11.45.53:765][429]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.45.53:766][429]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2021.12.14-11.45.53:766][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003703s)
+[2021.12.14-11.45.53:792][429]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.12.14-11.45.53:801][429]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.12.14-11.45.53:801][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.45.53:801][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.45.53:801][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.45.53:801][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.45.53:801][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.45.53:801][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.45.53:801][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.45.53:801][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.45.53:801][429]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.45.53:801][429]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.45.53:805][429]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.45.53:806][429]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.45.53:817][429]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.45.53:817][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.45.53:817][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.45.53:817][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.45.53:818][429]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.45.53:818][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.45.53:819][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.45.53:819][429]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.45.53:819][429]LogInit: FAudioDevice initialized.
+[2021.12.14-11.45.53:819][429]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainLevel'.
+[2021.12.14-11.45.53:830][429]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.45.53:831][429]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.45.53
+[2021.12.14-11.45.53:831][429]LogWorld: Bringing up level for play took: 0.000778
+[2021.12.14-11.45.53:831][429]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.12.14-11.45.53:835][429]PIE: Server logged in
+[2021.12.14-11.45.53:836][429]PIE: Play in editor total start time 0,075 seconds.
+[2021.12.14-11.46.14:162][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.46.14:162][684]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.46.14:162][684]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.46.14:162][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.46.14:173][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.46.14:195][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.46.14:218][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-11.46.14:218][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.46.14:220][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.46.14:222][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.46.14:226][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.12.14-11.46.14:253][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.12.14-11.46.14:301][685]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.12.14-11.46.17:325][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-11.46.17:351][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.12.14-11.46.17:359][970]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevelC9FD8E7C49BF04CBC5AB6BAC52657FF2.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel.umap'
+[2021.12.14-11.46.17:479][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/MainLevel_BuiltData" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.12.14-11.46.17:480][970]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainLevel_BuiltDataB9ED75184D466CA17FA407B2C15563D1.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/MainLevel_BuiltData.uasset'
+[2021.12.14-11.46.17:598][970]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-11.46.17:598][970]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_SvichkarSA/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.14-11.46.17:598][970]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/MainLevel.MainLevel
+[2021.12.14-11.46.26:535][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.46.26:552][781]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter6F664AA6494266180A50D2A495FF7768.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.46.26:586][781]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.46.26:586][781]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.46.41:242][319]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.46.57:518][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.46.57:535][117]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter685D812E44EF4973F65A9CB4BA7EAFBF.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.46.57:568][117]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.46.57:569][117]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.46.59:160][289]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.46.59:231][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.12.14-11.47.01:115][504]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.47.01:124][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.47.01:124][504]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:47:01)
+[2021.12.14-11.47.01:125][504]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.47.01:127][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002176s)
+[2021.12.14-11.47.01:128][504]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.47.01:128][504]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2021.12.14-11.47.01:128][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003837s)
+[2021.12.14-11.47.01:155][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.12.14-11.47.01:158][504]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.12.14-11.47.01:158][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.47.01:158][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.47.01:158][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.47.01:158][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.47.01:158][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.47.01:158][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.47.01:158][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.47.01:158][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.47.01:159][504]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.47.01:159][504]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.47.01:163][504]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.47.01:163][504]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.47.01:173][504]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.47.01:173][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.47.01:174][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.47.01:174][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.47.01:174][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.47.01:174][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.47.01:175][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.47.01:175][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.47.01:176][504]LogInit: FAudioDevice initialized.
+[2021.12.14-11.47.01:176][504]LogAudio: Display: Audio Device (ID: 25) registered with world 'MainLevel'.
+[2021.12.14-11.47.01:217][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.47.01:217][504]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.47.01:218][504]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.47.01
+[2021.12.14-11.47.01:218][504]LogWorld: Bringing up level for play took: 0.001028
+[2021.12.14-11.47.01:219][504]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.12.14-11.47.01:224][504]PIE: Server logged in
+[2021.12.14-11.47.01:224][504]PIE: Play in editor total start time 0,101 seconds.
+[2021.12.14-11.47.07:378][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.47.07:378][885]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.47.07:379][885]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.47.07:387][885]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.47.07:388][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.47.07:400][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.47.07:422][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.47.07:445][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-11.47.07:445][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.47.07:446][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.47.07:453][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.12.14-11.47.07:481][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.12.14-11.47.07:495][886]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.12.14-11.47.17:283][932]SourceControl: fatal: D:/Games/Epic Games/UE_5.0EA/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'D:/Games/Epic Games/UE_5.0EA/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'H:/Learning/HomeWork/SvichkarSA12122021'
+[2021.12.14-11.47.17:283][932]SourceControl: fatal: D:/Games/Epic Games/UE_5.0EA/Engine/Plugins/Bridge/Content/Mannequin/Character/Mesh: 'D:/Games/Epic Games/UE_5.0EA/Engine/Plugins/Bridge/Content/Mannequin/Character/Mesh' is outside repository at 'H:/Learning/HomeWork/SvichkarSA12122021'
+[2021.12.14-11.47.31:660][467]SourceControl: fatal: D:/Games/Epic Games/UE_5.0EA/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'D:/Games/Epic Games/UE_5.0EA/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'H:/Learning/HomeWork/SvichkarSA12122021'
+[2021.12.14-11.47.31:660][467]SourceControl: fatal: D:/Games/Epic Games/UE_5.0EA/Engine/Plugins/Bridge/Content/Mannequin/Character/Mesh: 'D:/Games/Epic Games/UE_5.0EA/Engine/Plugins/Bridge/Content/Mannequin/Character/Mesh' is outside repository at 'H:/Learning/HomeWork/SvichkarSA12122021'
+[2021.12.14-11.47.32:542][530]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2021.12.14-11.47.32:543][530]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2021.12.14-11.47.32:543][530]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2021.12.14-11.47.37:659][110]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.47.46:430][ 45]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.47.47:754][164]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.14-11.47.59:946][366]SourceControl: fatal: D:/Games/Epic Games/UE_5.0EA/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'D:/Games/Epic Games/UE_5.0EA/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'H:/Learning/HomeWork/SvichkarSA12122021'
+[2021.12.14-11.47.59:946][366]SourceControl: fatal: D:/Games/Epic Games/UE_5.0EA/Engine/Plugins/Bridge/Content/Mannequin/Character/Mesh: 'D:/Games/Epic Games/UE_5.0EA/Engine/Plugins/Bridge/Content/Mannequin/Character/Mesh' is outside repository at 'H:/Learning/HomeWork/SvichkarSA12122021'
+[2021.12.14-11.48.09:643][141]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.48.09:717][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.12.14-11.48.11:809][382]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-11.48.11:816][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-11.48.11:816][382]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 07:48:11)
+[2021.12.14-11.48.11:816][382]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.48.11:818][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001812s)
+[2021.12.14-11.48.11:819][382]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-11.48.11:820][382]LogPlayLevel: PIE: World Init took: (0.001354s)
+[2021.12.14-11.48.11:820][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003290s)
+[2021.12.14-11.48.11:846][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.12.14-11.48.11:849][382]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.12.14-11.48.11:849][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-11.48.11:849][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-11.48.11:849][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-11.48.11:849][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-11.48.11:849][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-11.48.11:849][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-11.48.11:849][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-11.48.11:849][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-11.48.11:849][382]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-11.48.11:849][382]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-11.48.11:853][382]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-11.48.11:853][382]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-11.48.11:864][382]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-11.48.11:864][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-11.48.11:864][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-11.48.11:864][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-11.48.11:865][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-11.48.11:865][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-11.48.11:866][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-11.48.11:866][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-11.48.11:866][382]LogInit: FAudioDevice initialized.
+[2021.12.14-11.48.11:866][382]LogAudio: Display: Audio Device (ID: 26) registered with world 'MainLevel'.
+[2021.12.14-11.48.11:918][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.48.11:918][382]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-11.48.11:919][382]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-21.48.11
+[2021.12.14-11.48.11:919][382]LogWorld: Bringing up level for play took: 0.000928
+[2021.12.14-11.48.11:919][382]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.12.14-11.48.11:924][382]PIE: Server logged in
+[2021.12.14-11.48.11:924][382]PIE: Play in editor total start time 0,109 seconds.
+[2021.12.14-11.48.28:539][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-11.48.28:539][457]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-11.48.28:539][457]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-11.48.28:546][457]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-11.48.28:547][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.48.28:555][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-11.48.28:578][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-11.48.28:603][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-11.48.28:603][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.48.28:604][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-11.48.28:611][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.12.14-11.48.28:638][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.12.14-11.48.28:652][458]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.12.14-11.48.30:428][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.48.30:446][639]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacterC930637A48B585F0347C34AE55E60B15.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.48.30:480][639]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.48.30:480][639]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.49.27:406][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.49.27:420][982]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacterF89E516F44C113E9C965BCBB48F3AAE0.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.49.27:438][982]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.49.27:438][982]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.51.02:589][963]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.14-11.51.02:589][963]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.14-11.51.04:451][182]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.14-11.51.04:451][182]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.14-11.51.28:487][928]LogEditorTransaction: Undo Move Nodes
+[2021.12.14-11.52.58:176][973]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-11.52.58:231][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.12.14-11.52.59:352][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.52.59:370][ 66]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter52C0ABF74A0D22DEEC9D8E9BFCD2DAA0.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.52.59:405][ 66]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.52.59:405][ 66]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-11.58.29:873][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-11.58.29:888][671]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter1E5C281042609957790B5AB975483BD9.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-11.58.29:904][671]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-11.58.29:904][671]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-12.03.02:579][630]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-12.03.02:636][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.12.14-12.03.05:850][995]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.14-12.03.05:857][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-12.03.05:857][995]PIE: New page: PIE session: MainLevel (15 дек. 2021 г., 08:03:05)
+[2021.12.14-12.03.05:857][995]LogPlayLevel: Creating play world package: /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-12.03.05:859][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001829s)
+[2021.12.14-12.03.05:860][995]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.14-12.03.05:861][995]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2021.12.14-12.03.05:861][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_SvichkarSA/Levels/MainLevel.MainLevel to /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel (0.003485s)
+[2021.12.14-12.03.05:893][995]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.12.14-12.03.05:896][995]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.12.14-12.03.05:896][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-12.03.05:896][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-12.03.05:896][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-12.03.05:896][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-12.03.05:896][995]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-12.03.05:896][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-12.03.05:896][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-12.03.05:896][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-12.03.05:897][995]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-12.03.05:897][995]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-12.03.05:901][995]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-12.03.05:901][995]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-12.03.05:913][995]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.14-12.03.05:913][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-12.03.05:913][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-12.03.05:913][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-12.03.05:914][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-12.03.05:914][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-12.03.05:915][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-12.03.05:915][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-12.03.05:915][995]LogInit: FAudioDevice initialized.
+[2021.12.14-12.03.05:915][995]LogAudio: Display: Audio Device (ID: 27) registered with world 'MainLevel'.
+[2021.12.14-12.03.05:958][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-12.03.05:959][995]LogLoad: Game class is 'MainGM_C'
+[2021.12.14-12.03.05:960][995]LogWorld: Bringing World /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.14-22.03.05
+[2021.12.14-12.03.05:960][995]LogWorld: Bringing up level for play took: 0.001076
+[2021.12.14-12.03.05:960][995]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.12.14-12.03.05:974][995]PIE: Server logged in
+[2021.12.14-12.03.05:976][995]PIE: Play in editor total start time 0,12 seconds.
+[2021.12.14-12.03.22:154][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-12.03.22:154][ 35]LogWorld: BeginTearingDown for /Game/_SvichkarSA/Levels/UEDPIE_0_MainLevel
+[2021.12.14-12.03.22:155][ 35]LogSlate: Window 'SvichkarSA12122021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.14-12.03.22:163][ 35]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-12.03.22:163][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-12.03.22:171][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-12.03.22:194][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-12.03.22:221][ 35]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-12.03.22:222][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-12.03.22:223][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-12.03.22:229][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.12.14-12.03.22:260][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.12.14-12.03.22:279][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.12.14-12.03.23:665][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-12.03.23:725][161]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter30F5E10341073AC161AE0C9057794F8B.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-12.03.23:804][161]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-12.03.23:804][161]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-12.06.00:693][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2021.12.14-12.06.00:715][585]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacterF3E77B2841C3872FED37928CA6DBE6F6.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2021.12.14-12.06.00:753][585]AssetCheck: New page: Asset Save: MainCharacter
+[2021.12.14-12.06.00:753][585]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2021.12.14-12.06.02:300][750]BlueprintLog: New page: Compile MainCharacter
+[2021.12.14-12.06.02:356][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
