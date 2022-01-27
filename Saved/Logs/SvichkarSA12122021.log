@@ -47606,3 +47606,401 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.27-13.00.43:169][900]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/NewLevel5B11F47C430E50B9D3899A9B6C298AB8.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap'
 [2022.01.27-13.00.43:198][900]AssetCheck: New page: Asset Save: NewLevel
 [2022.01.27-13.00.43:198][900]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/NewLevel.NewLevel
+[2022.01.27-13.06.36:744][194]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.06.36:744][194]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.06.58:319][120]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.06.58:322][120]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.06.58:324][120]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.06.58:326][120]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.06.58:328][120]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.06.58:328][120]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.02:641][569]LogSlate: Took 0.023282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.01.27-13.07.05:241][857]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.07.05:241][857]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.07.09:678][323]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.09:680][323]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.09:682][323]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.09:684][323]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.09:686][323]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.09:686][323]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:520][870]BlueprintLog: New page: Compile MainCharacter
+[2022.01.27-13.07.14:575][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:576][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:577][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:579][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:580][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:581][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:581][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:583][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:584][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:586][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:586][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:588][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:589][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:633][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:634][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:635][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:757][870]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2022.01.27-13.07.14:766][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:767][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:769][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:770][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:771][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:772][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:773][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:780][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:781][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:783][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:784][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:785][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:787][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:788][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:790][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:791][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:792][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:792][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:801][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:803][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:804][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:805][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:807][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:807][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:812][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:813][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:815][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:816][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:817][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:818][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:820][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:821][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:823][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.14:823][870]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.27:196][273]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.27:198][273]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.27:200][273]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.27:202][273]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.27:204][273]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.27:205][273]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:433][922]BlueprintLog: New page: Compile MainCharacter
+[2022.01.27-13.07.39:477][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:479][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:480][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:482][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:483][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:484][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:484][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:486][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:487][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:489][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:489][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:491][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:492][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:535][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:536][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:537][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:654][922]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2022.01.27-13.07.39:666][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:667][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:669][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:670][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:671][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:671][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:672][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:679][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:680][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:682][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:683][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:684][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:685][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:687][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:688][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:690][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:690][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:691][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:699][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:701][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:702][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:703][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:705][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:705][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:710][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:711][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:713][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:714][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:715][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:716][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:718][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:719][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:721][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.39:722][922]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:785][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:787][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:789][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:790][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:792][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:792][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:793][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:795][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:797][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:798][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:799][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:801][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:802][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:804][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:806][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:807][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:808][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:809][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:810][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:811][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:813][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:814][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:815][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:817][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:819][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:820][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:822][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:823][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:824][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:825][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:827][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.41:827][110]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:319][257]BlueprintLog: New page: Compile MainCharacter
+[2022.01.27-13.07.43:364][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:366][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:367][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:369][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:370][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:371][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:371][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:373][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:374][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:376][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:377][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:379][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:380][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:424][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:425][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:426][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:547][257]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2022.01.27-13.07.43:558][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:559][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:561][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:562][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:563][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:564][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:564][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:572][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:573][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:574][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:575][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:577][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:578][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:579][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:581][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:582][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:583][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:584][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:592][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:593][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:595][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:596][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:598][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:598][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:603][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:604][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:606][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:607][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:608][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:610][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:611][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:613][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:614][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.43:615][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.07.44:551][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2022.01.27-13.07.44:627][325]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter754BF31A49DDA7EDB0EF46A3D066D17F.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2022.01.27-13.07.44:727][325]AssetCheck: New page: Asset Save: MainCharacter
+[2022.01.27-13.07.44:727][325]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2022.01.27-13.10.42:844][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2022.01.27-13.10.43:083][ 19]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/NewLevel_Auto63C2C7C544B79827AB07B4FBB4A4CD590.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/Levels/NewLevel_Auto6.umap'
+[2022.01.27-13.10.43:085][ 19]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_SvichkarSA/Levels/NewLevel' took 0.290
+[2022.01.27-13.10.43:085][ 19]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.290
+[2022.01.27-13.10.43:085][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_SvichkarSA/AI/MainAI] ([1] browsable assets)...
+[2022.01.27-13.10.43:134][ 19]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_SvichkarSA/AI/MainAI.MainAI]
+[2022.01.27-13.10.43:134][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/_SvichkarSA/AI/MainAI]
+[2022.01.27-13.10.43:134][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/AI/MainAI" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/AI/MainAI_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.01.27-13.10.43:145][ 19]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainAI_Auto640FE53CB4047EEF0B5B01F91C6B26564.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/AI/MainAI_Auto6.uasset'
+[2022.01.27-13.10.43:146][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_SvichkarSA/AI/MainAIController] ([1] browsable assets)...
+[2022.01.27-13.10.43:146][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/_SvichkarSA/AI/MainAIController]
+[2022.01.27-13.10.43:186][ 19]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainAIController_Auto6C1143EE94FED4C13A02569B67FB933A8.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/AI/MainAIController_Auto6.uasset'
+[2022.01.27-13.10.43:186][ 19]LogFileHelpers: Auto-saving content packages took 0.102
+[2022.01.27-13.14.08:568][774]LogContentBrowser: Deferred new asset file creation: MainAI_Child
+[2022.01.27-13.14.08:630][774]LogContentBrowser: Creating deferred item: MainAI_Child
+[2022.01.27-13.14.10:918][936]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.14.10:918][936]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.14.12:137][ 24]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.14.12:138][ 24]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.14.18:927][522]LogContentBrowser: Attempting asset rename: MainAI_Child -> AI_RED
+[2022.01.27-13.14.19:064][522]LogContentBrowser: End creating deferred item MainAI_Child
+[2022.01.27-13.14.19:076][522]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.23:239][736]LogContentBrowser: Deferred new asset file creation: MainAI_Child
+[2022.01.27-13.14.23:274][736]LogContentBrowser: Creating deferred item: MainAI_Child
+[2022.01.27-13.14.29:024][152]LogContentBrowser: Attempting asset rename: MainAI_Child -> AI_BLUE
+[2022.01.27-13.14.29:157][152]LogContentBrowser: End creating deferred item MainAI_Child
+[2022.01.27-13.14.29:169][152]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.33:625][442]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_SvichkarSA/AI/AI_RED.AI_RED
+[2022.01.27-13.14.34:132][442]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.34:152][442]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.44:969][464]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.44:970][464]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.44:971][464]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.44:973][464]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.44:975][464]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.44:975][464]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.44:976][464]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.44:977][464]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.44:993][464]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.46:908][667]BlueprintLog: New page: Compile AI_RED
+[2022.01.27-13.14.46:930][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.46:932][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.46:933][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.46:934][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.47:008][667]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2022.01.27-13.14.47:013][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.47:014][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.47:015][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.47:016][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.47:017][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.47:023][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.47:024][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.47:025][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.47:026][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.14.47:051][667]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.15.57:153][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/AI/AI_RED" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/AI/AI_RED.uasset" SILENT=true
+[2022.01.27-13.15.57:164][ 77]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/AI_REDE24D6C2D409AFA0E3876ECBEBC6FAAAD.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/AI/AI_RED.uasset'
+[2022.01.27-13.15.57:383][ 77]AssetCheck: New page: Asset Save: AI_RED
+[2022.01.27-13.15.57:383][ 77]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/AI/AI_RED.AI_RED
+[2022.01.27-13.16.56:430][606]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.16.56:465][606]LogMaterial: Display: Material /Game/Downloads/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished needed to have new flag set bUsedWithSkeletalMesh !
+[2022.01.27-13.16.56:468][606]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 7C744EE80AD96C87C4B30D617E8EEC74D7D7A10D), compiling. 
+[2022.01.27-13.16.57:000][606]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.17.00:490][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/AI/AI_RED" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/AI/AI_RED.uasset" SILENT=true
+[2022.01.27-13.17.00:517][890]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/AI_RED0BCB717E4990416811E4E592A45212AD.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/AI/AI_RED.uasset'
+[2022.01.27-13.17.00:565][890]AssetCheck: New page: Asset Save: AI_RED
+[2022.01.27-13.17.00:565][890]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/AI/AI_RED.AI_RED
+[2022.01.27-13.17.08:370][154]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.27-13.17.08:370][154]LogShaderCompilers: Display: Total job queries 63, among them cache hits 0 (0.00%)
+[2022.01.27-13.17.08:370][154]LogShaderCompilers: Display: Tracking 7 distinct input hashes that result in 7 distinct outputs (100.00%)
+[2022.01.27-13.17.08:370][154]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.01.27-13.17.08:371][154]LogShaderCompilers: Display: ================================================
+[2022.01.27-13.17.12:218][284]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_SvichkarSA/AI/AI_BLUE.AI_BLUE
+[2022.01.27-13.17.12:849][284]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.17.12:872][284]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.17.29:898][324]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.17.29:898][324]LogMaterial: Display: Material /Game/Downloads/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel needed to have new flag set bUsedWithSkeletalMesh !
+[2022.01.27-13.17.29:900][324]LogMaterial: Display: Missing cached shadermap for M_Metal_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 9B5CD19338EF42B61C1DC487B75C2C5680497C48), compiling. 
+[2022.01.27-13.17.29:957][324]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.17.33:158][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/AI/AI_BLUE" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/AI/AI_BLUE.uasset" SILENT=true
+[2022.01.27-13.17.33:175][454]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/AI_BLUED1B46F1B47F7E99A7A0793B57C445963.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/AI/AI_BLUE.uasset'
+[2022.01.27-13.17.33:529][454]AssetCheck: New page: Asset Save: AI_BLUE
+[2022.01.27-13.17.33:529][454]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/AI/AI_BLUE.AI_BLUE
+[2022.01.27-13.17.52:650][387]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.17.52:651][387]LogMaterial: Display: Material /Game/Downloads/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold needed to have new flag set bUsedWithSkeletalMesh !
+[2022.01.27-13.17.52:652][387]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 1A334E3A304953202AA7149B0C4AE032E727F592), compiling. 
+[2022.01.27-13.17.52:721][387]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_1206 in PCD3D_SM5, Default, SM5 (DDC key hash: 7948CF27FF9F0F8238839FF2755B077ACE1EA390), compiling. 
+[2022.01.27-13.17.52:729][387]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.18.30:876][268]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.01.27-13.18.30:876][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.27-13.18.32:484][396]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.27-13.18.32:484][396]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.01.27-13.18.32:484][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.27-13.18.35:700][708]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.01.27-13.18.35:700][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.27-13.18.37:465][869]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.27-13.18.37:466][869]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.01.27-13.18.37:466][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.27-13.18.41:290][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/AI/MainAI" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/AI/MainAI.uasset" SILENT=true
+[2022.01.27-13.18.41:297][236]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainAI9D66B5024F499FE90884CF9B3ADB427B.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/AI/MainAI.uasset'
+[2022.01.27-13.18.41:316][236]AssetCheck: New page: Asset Save: MainAI
+[2022.01.27-13.18.41:316][236]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/AI/MainAI.MainAI
+[2022.01.27-13.19.30:645][467]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.19.30:646][467]LogMaterial: Display: Material /Game/Downloads/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile needed to have new flag set bUsedWithSkeletalMesh !
+[2022.01.27-13.19.30:647][467]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile in PCD3D_SM5, Default, SM5 (DDC key hash: AFE39718E51A9966EB73469D65EF8F77BCAD3AE3), compiling. 
+[2022.01.27-13.19.30:953][467]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.19.30:955][467]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.19.30:957][467]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.19.30:960][467]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.19.30:962][467]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.19.30:964][467]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.19.30:966][467]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.19.30:969][467]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.19.30:971][467]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.19.33:094][559]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.01.27-13.20.43:711][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2022.01.27-13.20.43:951][ 57]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/NewLevel_Auto7D18DE5614F1D2741A665DE80B45F192B.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/Levels/NewLevel_Auto7.umap'
+[2022.01.27-13.20.43:954][ 57]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_SvichkarSA/Levels/NewLevel' took 0.330
+[2022.01.27-13.20.43:954][ 57]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.330
+[2022.01.27-13.20.43:954][ 57]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_SvichkarSA/Characters/MainCharacter] ([1] browsable assets)...
+[2022.01.27-13.20.43:954][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/_SvichkarSA/Characters/MainCharacter]
+[2022.01.27-13.20.44:028][ 57]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacter_Auto7CB9E0D9F4D0226FE2929EAB504AD6CBB.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/Characters/MainCharacter_Auto7.uasset'
+[2022.01.27-13.20.44:030][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Downloads/StarterContent/Materials/M_Tech_Hex_Tile] ([1] browsable assets)...
+[2022.01.27-13.20.44:130][ 57]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Downloads/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile]
+[2022.01.27-13.20.44:130][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Downloads/StarterContent/Materials/M_Tech_Hex_Tile]
+[2022.01.27-13.20.44:139][ 57]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/M_Tech_Hex_Tile_Auto79FEDB72F4B906C05179D90BFF014DDD5.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/Downloads/StarterContent/Materials/M_Tech_Hex_Tile_Auto7.uasset'
+[2022.01.27-13.20.44:140][ 57]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_SvichkarSA/AI/MainAI] ([1] browsable assets)...
+[2022.01.27-13.20.44:140][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/_SvichkarSA/AI/MainAI]
+[2022.01.27-13.20.44:140][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/AI/MainAI" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/AI/MainAI_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.01.27-13.20.44:147][ 57]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainAI_Auto7CE2EAAA949A770B48942238137693A89.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/AI/MainAI_Auto7.uasset'
+[2022.01.27-13.20.44:148][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Downloads/StarterContent/Materials/M_Metal_Gold] ([1] browsable assets)...
+[2022.01.27-13.20.44:159][ 57]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Downloads/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold]
+[2022.01.27-13.20.44:159][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Downloads/StarterContent/Materials/M_Metal_Gold]
+[2022.01.27-13.20.44:168][ 57]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/M_Metal_Gold_Auto7F2EB09924ADAB60DB8D834AEE25551C6.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/Downloads/StarterContent/Materials/M_Metal_Gold_Auto7.uasset'
+[2022.01.27-13.20.44:169][ 57]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_SvichkarSA/AI/AI_RED] ([1] browsable assets)...
+[2022.01.27-13.20.44:169][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/_SvichkarSA/AI/AI_RED]
+[2022.01.27-13.20.44:169][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/AI/AI_RED" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/AI/AI_RED_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.01.27-13.20.44:177][ 57]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/AI_RED_Auto794EFFFDF4E6D02515EB369A0DA5780BB.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/AI/AI_RED_Auto7.uasset'
+[2022.01.27-13.20.44:178][ 57]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_SvichkarSA/AI/AI_BLUE] ([1] browsable assets)...
+[2022.01.27-13.20.44:178][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/_SvichkarSA/AI/AI_BLUE]
+[2022.01.27-13.20.44:178][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/AI/AI_BLUE" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/AI/AI_BLUE_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.01.27-13.20.44:185][ 57]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/AI_BLUE_Auto72E93667A4934BE2893DDE7A044E32DC4.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/AI/AI_BLUE_Auto7.uasset'
+[2022.01.27-13.20.44:186][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Downloads/StarterContent/Materials/M_Wood_Floor_Walnut_Polished] ([1] browsable assets)...
+[2022.01.27-13.20.44:199][ 57]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Downloads/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished]
+[2022.01.27-13.20.44:199][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Downloads/StarterContent/Materials/M_Wood_Floor_Walnut_Polished]
+[2022.01.27-13.20.44:208][ 57]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/M_Wood_Floor_Walnut_Polished_Aut364601A1442DDF5B39BB4580A9337030.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/Downloads/StarterContent/Materials/M_Wood_Floor_Walnut_Polished_Auto7.uasset'
+[2022.01.27-13.20.44:209][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Downloads/StarterContent/Materials/M_Metal_Steel] ([1] browsable assets)...
+[2022.01.27-13.20.44:220][ 57]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Downloads/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel]
+[2022.01.27-13.20.44:220][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Downloads/StarterContent/Materials/M_Metal_Steel]
+[2022.01.27-13.20.44:230][ 57]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/M_Metal_Steel_Auto7C57C9AF14EA971C5670318AC08FD1E56.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/Downloads/StarterContent/Materials/M_Metal_Steel_Auto7.uasset'
+[2022.01.27-13.20.44:230][ 57]LogFileHelpers: Auto-saving content packages took 0.276
+[2022.01.27-13.21.55:462][271]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.21.55:462][271]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.38.00:435][258]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.38.00:435][258]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.38.47:775][550]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/CharacterMovementComponent_16.svg'. File could not be found
+[2022.01.27-13.39.58:685][547]BlueprintLog: New page: Compile MainAIController
+[2022.01.27-13.39.58:785][547]LogUObjectHash: Compacting FUObjectHashTables data took   8.07ms
+[2022.01.27-13.40.36:978][294]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2022.01.27-13.40.36:980][294]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_SvichkarSA/Levels/NewLevel' took 0.049
+[2022.01.27-13.40.36:981][294]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_SvichkarSA/AI/MainAIController] ([1] browsable assets)...
+[2022.01.27-13.40.36:981][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/_SvichkarSA/AI/MainAIController]
+[2022.01.27-13.40.37:023][294]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainAIController_Auto8F7FE562B45CAA92115FD3AB7E9A95909.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/Autosaves/Game/_SvichkarSA/AI/MainAIController_Auto8.uasset'
+[2022.01.27-13.40.37:024][294]LogFileHelpers: Auto-saving content packages took 0.043
+[2022.01.27-13.42.08:788][397]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.42.08:788][397]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.42.10:963][612]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.42.10:963][612]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.27-13.42.22:950][735]BlueprintLog: New page: Compile MainAIController
+[2022.01.27-13.42.23:051][735]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2022.01.27-13.42.27:106][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Characters/MainCharacter" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset" SILENT=true
+[2022.01.27-13.42.27:182][ 51]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainCharacterA47629294CBC19F8F49EA8B1A31C4E7B.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Characters/MainCharacter.uasset'
+[2022.01.27-13.42.27:200][ 51]AssetCheck: New page: Asset Save: MainCharacter
+[2022.01.27-13.42.27:200][ 51]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/Characters/MainCharacter.MainCharacter
+[2022.01.27-13.42.29:649][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/Levels/NewLevel" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.27-13.42.29:693][168]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2022.01.27-13.42.29:926][168]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/NewLevelCF0A3D704FFA7A333B355CB6A4F8D55C.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/Levels/NewLevel.umap'
+[2022.01.27-13.42.29:959][168]AssetCheck: New page: Asset Save: NewLevel
+[2022.01.27-13.42.29:959][168]LogContentValidation: Display: Validating World /Game/_SvichkarSA/Levels/NewLevel.NewLevel
+[2022.01.27-13.42.32:416][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_SvichkarSA/AI/MainAI" FILE="H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/AI/MainAI.uasset" SILENT=true
+[2022.01.27-13.42.32:423][330]LogSavePackage: Moving 'H:/Learning/HomeWork/SvichkarSA12122021/Saved/MainAI5DFD0A5B44830510EF0E2AAFD83A65BF.tmp' to 'H:/Learning/HomeWork/SvichkarSA12122021/Content/_SvichkarSA/AI/MainAI.uasset'
+[2022.01.27-13.42.32:439][330]AssetCheck: New page: Asset Save: MainAI
+[2022.01.27-13.42.32:439][330]LogContentValidation: Display: Validating Blueprint /Game/_SvichkarSA/AI/MainAI.MainAI
